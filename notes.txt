@@ -56,8 +56,31 @@ PMIDs without abstract: ['40304301', '40021401', '39939041', '39647966', '395392
 Total papers without pdf_url: 623
 
 Summary (IDs per file):
-pdf_task_no_url_part1.json: 208 IDs
-pdf_task_no_url_part2.json: 208 IDs
-pdf_task_no_url_part3.json: 207 IDs
+# pdf_task_no_url_part1.json: 208 IDs
+Total has_pdf = false: 18
+PMIDs:can not find pdf 
+40105162
+39939127
+39939041
+39808456
+39756382
+38520298
+38224297
+37635415
+37553285
+37023704
+35734685
+35727630
+35718067
+35698284
+35653558
+35579193
+35536679
+35523236
+
+# pdf_task_no_url_part2.json: 208 IDs
+
+# pdf_task_no_url_part3.json: 207 IDs
+
 
 Total IDs across parts: 623

@@ -1,24 +1,10 @@
 import json
 import os
 import re
-from openai import AzureOpenAI  # type: ignore
-from PyPDF2 import PdfReader  # type: ignore
-from tqdm import tqdm  # type: ignore
+from openai import AzureOpenAI # type: ignore
+from PyPDF2 import PdfReader # type: ignore
+from tqdm import tqdm # type: ignore
 
-# ✅ 改為從環境變數讀取，安全可 commit
-api_key = os.getenv("AZURE_OPENAI_API_KEY")
-endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
-
-if not api_key or not endpoint:
-    raise ValueError("Missing environment variables: AZURE_OPENAI_API_KEY or AZURE_OPENAI_ENDPOINT")
-
-client = AzureOpenAI(
-    api_key=api_key,
-    api_version="2025-01-01-preview",
-    azure_endpoint=endpoint
-)
-
-deployment_name = "gpt-4o"
 
 def load_prompt(path):
     with open(path, "r") as f:

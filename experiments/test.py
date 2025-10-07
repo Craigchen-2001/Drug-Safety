@@ -1,6 +1,6 @@
 import json
 
-path = "/Users/chenweichi/Desktop/Drug_Safety_Project/experiments/pdf_tasks_no_url/pdf_task_no_url_part1.json"
+path = "/Users/chenweichi/Desktop/Drug_Safety_Project/experiments/pdf_tasks_no_url/pdf_task_no_url_part5.json"
 
 with open(path, "r") as f:
     data = json.load(f)

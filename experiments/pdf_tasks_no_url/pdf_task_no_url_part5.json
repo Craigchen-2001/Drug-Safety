@@ -1,0 +1,620 @@
+[
+  {
+    "PMID": "21872969",
+    "Title": "Analysis of automated external defibrillator device failures reported to the Food and Drug Administration.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/272873/1-s2.0-S0196064411X0015X/1-s2.0-S0196064411013382/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIG2YL5TzkAhcsTpeCjsadlxvA7XRCQ7ZyW5hsUxXGE2hAiAcP%2FRqvD63o6RYV9kOsCWf3i%2BVUtaesSTm2N0ydDNB9Cq8BQiW%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMUGNezIFToZR8j4GXKpAFodJqOVYFH%2BqRfqDrOWvIINeqhzENSuO7WEemYTuj30ZF%2BH3%2FLGDWTuGkcck27Bg5KYrDjbQwWJ98qkIS0fFVdgInwF8uDkakCfpBgIIS1B2YmsQVOuY%2FcllowqxWD8icgHhMyisomWs0HNf2zk8gXMj8Et83cPQWIJw1O3cNhl2OPPTA1ZFGmo%2FJz%2BjhLIdd5TiJWqbU9HP2hJj49lzVzISBS7BHsOI77V%2Bq2tmn%2FPFSosABZZ8XUTaElIF%2B%2BKzluh6XuB00RJ6yzq7hhLVLLRDBYmkGSAc90lyuslV1Atv6PKIGdNuY6KIAyAywblytJ2ySW0APnJN4zueaK4YI9QIGzw4Af83zQIg6utJNpoUgXVvcUWaY8WPO2mz4Gl%2BTtnZTWUd8zsZDlZcfFNrBiTmWIpsucHa9p8swGvhodtYY1EKkGQsox6LuNr%2BbWKaWw9Xqv1jQ4pF75WG%2BnFOEd6z0mqV66pcx257lEW7aZNQLdeZBx09UMUdcRn4xFt8BKSqt4J5K5t%2FByAG4flKo2EzImwrnOfq%2FD%2BiEC%2BvQjf1emZnoYVuelcaR9bRwFW95lmAWiw9ftjoOGcp79pNjewsVl1qqZfVVKStbX%2BLr63R5SNXUkLn4KqWIny71iUM5U4K3aWFQiQmYSnsIwfP31J3nwsi2pVQMmWJ9wrxu4V7kG8%2FP%2B11T9u%2BrFC2LvYcAZwk65n5DjKIN7b3A%2FOk6ARye1P95c0%2FnZg8QoqlIRFPyCnU%2FXZYh0vLhGoK3D7SgU3UQD8oaisr%2BiN20%2BrjxMj6ZrPXM4SnFc%2FCm5djD2sNcraHmARzYHzF6SEvEUHLdUXbgHqmaYuJW2avFBaqQscYF09ReESQ1bhaDHATAJbAwluGQxwY6sgGF6Lfx8YQL2KrDsIjFDA76RrdzFgTrHitr%2FDHh3oQV9Yfz4V9wkH0BTsP4XGGkRqbLphh%2BbEZujUgYdnv8yuu1puf%2B%2F6PUmw%2BoKXa78sGTRh%2Bj9IGds69W4W2cVhD%2BTmYikpFcL8aBkDDDzhrQAtCylmJgjs5OI7Assvi66MaCmfUjC2u6fBB0qXHfBhnrr8DILsgrAHwAJ3%2Bcbb9kYVfR6MR5Zhc9R8WTiwC2dM%2BtiDxR&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T220829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQ35QYH55%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=96344d51ab979b87975aade6870bb6a9e40aefae9a6f3562812df1f644e3de0a&hash=5a0c27e1854bf6295dc3186479355921302445ca3b06f5aa5c6b378d458f299d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0196064411013382&tid=spdf-e3f6d2ce-65ba-4687-b563-887e1363d212&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f590751&rr=98a87a47b82913cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "21777837",
+    "Title": "Adverse events due to suspected nickel hypersensitivity in patients with essure micro-inserts.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273426/1-s2.0-S1553465011X00043/1-s2.0-S1553465011002354/mainext.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCOQy4157sZ1TAoNhKZ5ayHdqDHnzk9KM%2B3piQbXY5HFwIhAJR7bvLb%2BYzsXpiu8DAOjZYDBwXTYzlYA8JzslcFhvFbKrwFCJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgzZbxxpS5RRrCvFcWgqkAUbqrDtsP8pLVGQVPc6zXxWO2juRzhR6a6AaEOAOog%2BQLm2h%2BGNMdqXLfJmenQv8rC8%2BWEQgpmgC0or92iwI8Y82H2XkWpreie1GnVDlaUyiFgpOzvI33Eicj75U32uMW7zvjT4B3pm048Ixv7FnerXe4Kd6GWFfB0v64iUtfPK1nF4%2Bo%2BNtFTdnnmjcw1z07RUT29ouoplRNGXm39Ksul51gqTusEqgtY%2F%2FWQgRkvDpSP72o3%2FQaHTjQX5C1FxAtwGJJ4qrKEP9heoWQQWx3U3T1AmnRT59vce8O3lUHH9Otnk%2B%2F3ajpn%2BbMpHu%2BrPOYA20ix8dSesgjZvmvbdNThgX876gxhqv5YohjKJpUg6oUzWMZJTr3K5FLp39m20ioCZrpylwOZtF4RzLCR39CHj3Gh1Gc4ej5tLqY%2Bnv0HJEkdCZaE6%2F9%2Fu27iURv8hqISv%2BBhI2AQJdJCwdlbWo00YRp9AtRJ63mbYvz1ydLmLBtHhO9%2BsRpAQVSPrYaMykTUDs0C3jlPBIM0sHjEk99Vmucxxj%2B0hU7LpGC44JuJy0NcSe6b%2Fm8KbqfXz0PQe7aLgHUzgomrKAb71C2wtLTyIf2mYNuP6pQ4hX%2FanVm4CRk1dIw8n68u9NIWSex4cTdAzDS8Y183iJaPdNe31aoZ3W1M32yrdCbcJ%2F8YeFsNj8AcYk0h9O6mzZyg72zCjxUZ4TV%2BBUORrAJvPujjJRsp0a4jlTQVjOxEy2EYCox5t2I9xFrQ5dp23S45K8UgP8LIzJg137ecovidvj55lT%2Bgk78n46heM7S5hKoEMXF4hjelgQM1inNvisoP3m%2FiYm0Q0S77B1EL2H69bG7l9FMUmvZJpyvfyr5ZyUtvy7XldWjCK6ZDHBjqwAbdv%2B9P8MlDbVqrnd4ZlbqyUChEWbeo5GURO3WK%2FgHsht%2Fu9NduPQcZXF8bbAqepKuFXcrfm94I6SxKlowi41ixZVDx8pf22iqWJI6uLj%2BvLba2xBw7SlBZYwElXNqz20KfNP47NPZ2xglmnpPaKW%2FZ3aJoRtEk7NUwAuXYEfQFDPlOB%2BZSLnstRPe3pvUu2OCf8zDklBkroRB81XWiLGW33SRXhwPiGsNexUuYvEUj0&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T221008Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4IB74TFH%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0d1e837aa4e460c193d787f754ac7a9e75cb1cb4aab96017903867f2235a7881&hash=49309c3819a853651e42ec8b16ed04b88847718e64dbb7c2487a35948418ff31&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1553465011002354&tid=spdf-aa827182-0a22-4e1c-8dc6-e3fae1857529&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f590507&rr=98a87cb2fe0313cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "21762904",
+    "Title": "Enteral stents.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273305/1-s2.0-S0016510711X00093/1-s2.0-S0016510711015471/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNJPc9r5mJtsJW9OMGTP9v%2FzNtzA9lRAblEqgEOxxTFAIgSKFEG1k82CPejz7UAGedK081q3CF8C7QSmfJIdLSthYquwUIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDHd1j32jdqgpARmKPiqPBQ0jwW%2FpU%2F%2BMHgPGqGYY8sylJQDpOphhVeKo0UtO3pWpqlIj7ABRql7NukswL%2BLmtLmRRQZggbHSuXeICEeIR1u79cgbqRrlSdaIP%2Fw%2FHTv539YKygPo%2B8hztDMa5zxS8ng3G4QxVapjWdDsviU8T5UME0F2oafM15FPaHwUTWRkjg5rPXuUYEAy3Kqoa8o3N4qTZGjPzEteA4h%2F%2FVdUZUUCTSObvlSypUk1tWBJC%2Bm9YOIn4k%2FR%2Bk5SxGdbjZ1ZaqB8aWj2N%2FUBd9Ry3XiPaApBOTlP1CooW%2B1wDVRW0WlOes6HzQmCBNtw8cD60%2FzU5XnT89OP44vwOlbHRqkdZTo5rR64cycOAweTCibOf8492KCXapcson6KTQ7%2F2LjkFI8xCPCHJsvzK8dmt%2B6ZsYP%2FenJoW%2FfPAf36tssrV%2FXmlrGpSsReon2%2FQ1VduZq98QTDSWKj880YQ%2FCaYyhOWlrNSeag3QoanyjgwJuW7f%2F%2B8CMFc4xMw8VvrWj1U5uE0YUC7LxOrMudW%2BNPDEgQxJXdcIgQfwUzP62UMqJ2yw6PL0pGzu51XGWTiM8nMG%2FfFIuuPVa0pyF41ZgfKbYvp2pyW6og8kcugQWDW2TU2tBFgazwdhqGqddxGb8R4JQfzwvLSiJD63Pvfk2t5wDgaXcZK%2FTNCpdtWgHTLDkuxRaMR7LIHcVaX6bsNUKxknNf6XnEKyDaam2HduLJCbN8YPq%2FXijPdxvN5tJWtP6iGJSaJm3T4xaRKjDJByail9PDDODAfpQbAE6bNfiJveJUfomz4MlA9htjYM0ATh1i7RyanZynJJyFyvsgq0Bwqqb%2Bi1ZB879N7inpMBFmxjU2c8hKsgIV76SqZwHDrzRHkuMwu82QxwY6sQFJTmTR%2BTBjhImrcDKbSeGqwcEZgJl77OL6kYgikS%2B3YtOWMypWNgL5fapQAYGf7jAJb%2FFgg3Plevl5n8ayFduENh1zAvJ9B3q9vYVw5gH6HnV6Gle2c0j0Qp7m1HGhdQSRt1VnXCuA%2BgnJcaKOWOUAGNZUtSxWvL7CXQgr12NOs%2BRNpY3GOM%2Fqv%2FjAU12uo3GbWXN%2FeqplgpGGn6vhQhsveGVrdigNrK8Kpq5YlBpUCXY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T221042Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3SZNHIO7%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=292e5b689bb0ab33bbc8f51b361bfc21c40f230e011048f9e17409d610765670&hash=4a0d758a85aed376af05a988b88ad51b3694fc04d3cc485139448f316c9890c1&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016510711015471&tid=spdf-8e13890a-4720-477e-86f5-a9e0b4935093&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f59025d&rr=98a87d85ab7113cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "21704803",
+    "Title": "GI endoscopes.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273305/1-s2.0-S0016510711X0007X/1-s2.0-S0016510711001301/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCNJPc9r5mJtsJW9OMGTP9v%2FzNtzA9lRAblEqgEOxxTFAIgSKFEG1k82CPejz7UAGedK081q3CF8C7QSmfJIdLSthYquwUIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDHd1j32jdqgpARmKPiqPBQ0jwW%2FpU%2F%2BMHgPGqGYY8sylJQDpOphhVeKo0UtO3pWpqlIj7ABRql7NukswL%2BLmtLmRRQZggbHSuXeICEeIR1u79cgbqRrlSdaIP%2Fw%2FHTv539YKygPo%2B8hztDMa5zxS8ng3G4QxVapjWdDsviU8T5UME0F2oafM15FPaHwUTWRkjg5rPXuUYEAy3Kqoa8o3N4qTZGjPzEteA4h%2F%2FVdUZUUCTSObvlSypUk1tWBJC%2Bm9YOIn4k%2FR%2Bk5SxGdbjZ1ZaqB8aWj2N%2FUBd9Ry3XiPaApBOTlP1CooW%2B1wDVRW0WlOes6HzQmCBNtw8cD60%2FzU5XnT89OP44vwOlbHRqkdZTo5rR64cycOAweTCibOf8492KCXapcson6KTQ7%2F2LjkFI8xCPCHJsvzK8dmt%2B6ZsYP%2FenJoW%2FfPAf36tssrV%2FXmlrGpSsReon2%2FQ1VduZq98QTDSWKj880YQ%2FCaYyhOWlrNSeag3QoanyjgwJuW7f%2F%2B8CMFc4xMw8VvrWj1U5uE0YUC7LxOrMudW%2BNPDEgQxJXdcIgQfwUzP62UMqJ2yw6PL0pGzu51XGWTiM8nMG%2FfFIuuPVa0pyF41ZgfKbYvp2pyW6og8kcugQWDW2TU2tBFgazwdhqGqddxGb8R4JQfzwvLSiJD63Pvfk2t5wDgaXcZK%2FTNCpdtWgHTLDkuxRaMR7LIHcVaX6bsNUKxknNf6XnEKyDaam2HduLJCbN8YPq%2FXijPdxvN5tJWtP6iGJSaJm3T4xaRKjDJByail9PDDODAfpQbAE6bNfiJveJUfomz4MlA9htjYM0ATh1i7RyanZynJJyFyvsgq0Bwqqb%2Bi1ZB879N7inpMBFmxjU2c8hKsgIV76SqZwHDrzRHkuMwu82QxwY6sQFJTmTR%2BTBjhImrcDKbSeGqwcEZgJl77OL6kYgikS%2B3YtOWMypWNgL5fapQAYGf7jAJb%2FFgg3Plevl5n8ayFduENh1zAvJ9B3q9vYVw5gH6HnV6Gle2c0j0Qp7m1HGhdQSRt1VnXCuA%2BgnJcaKOWOUAGNZUtSxWvL7CXQgr12NOs%2BRNpY3GOM%2Fqv%2FjAU12uo3GbWXN%2FeqplgpGGn6vhQhsveGVrdigNrK8Kpq5YlBpUCXY%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T221126Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3SZNHIO7%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d93642dee61e045adfcb848f11e141eb2fcc50f20f992cc398d8de31dc26afd5&hash=d7c6cad414cae7a5d35ca4ee6c966426b1877c18e6b008586043f8e46470119e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016510711001301&tid=spdf-1b7e3188-f45b-471b-84c4-147459ddeaf6&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f59035c&rr=98a87e9aab1313cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "21527468",
+    "Title": "Incomplete deployment of the Vena Tech LP filter--case series and concerns.",
+    "pdf_url": "https://journals.sagepub.com/doi/10.1177/1538574411400762",
+    "has_pdf": true
+  },
+  {
+    "PMID": "21282375",
+    "Title": "Relationship between drain volume/fill volume ratio and clinical outcomes associated with overfill complaints in peritoneal dialysis patients.",
+    "pdf_url": "https://journals.sagepub.com/doi/10.3747/pdi.2010.00012",
+    "has_pdf": true
+  },
+  {
+    "PMID": "21237458",
+    "Title": "Computer-assisted personalized sedation.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273305/1-s2.0-S0016510711X00020/1-s2.0-S0016510710022406/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDut%2F%2BIophFkjaxUIYsgjUgyL%2BnQi640NNAS%2BosXhTODwIhANsGtQa%2FPzR3Cn8RzAxdXMV8pctXWiBxQr8ZWeYri1%2BjKrsFCJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1Igxnu%2BnHID3p%2B1jMc2cqjwUQkv4hBmcnLxfDYBG87f3TSvzRa2JO9nik0GjbKPDJkwVKSJlq8M7rMXI3AfowctjrVuSxISg7lOv5DvNHm5t5QNn%2FucKpzBCiax1w4wwm5G0hVfCO4fFHEX%2Fbj9FdNblqHOBZnryKFbsxjEu1zbkOVffbCwgo%2Fl1pPn79zyG0j7pvlNZtmzULRrKq6Wb2ekcVEnNRmQ1C6P%2BX6F1ADEiqywUgKv4a7RxonqbbIaktOeQDUtFmLyLETBkbv27Ee9T6hD32lOtWNUks%2BaACnZtUBDObbPR%2BUjz%2FO2kifOzz7vc5K5tyM%2Fj5fcY8B1vO2UQW9gngk6zabBMsEOk%2F%2BeCgEt1YxSdsfoxlPNDWjG3rhzaIvDhNAPthISJ9YXTSoovJIRiDACHpBZH3FJcFe3%2B6tFxcvPQ2p9M9DECBIdppQcOy2vAHm0nLq8vh5qK49R%2BDr4V1cDYULjvxZbkot8%2Bw94HtWEyKRtwHN0Ip8f2AO9WOrPg5hu5H4s2XmCRKisgREcOfde5oSPhm%2BnUV5Q9oYgIIQU0v4Ob%2BeHUCnkAyytiwvN1nX7yI%2BMgQh2WRhmpq6k0dZuRmLFrfHlSRf%2B8OpFzwT8%2BK7Z79%2FRT5F40guV%2FGZMfk%2FfHap3reDD33JMANZ2AYmWGZ9J7MkdaD%2FQwxHwDfvikw67s9mcQIj4%2BNO3rPlHE9k9xjkZyOelg569al9mB6kNvLPVtQRpETX9dHr18%2B2aNeU1TaqJ0eEJwWmCDrGWRITRCB42hIXeU4b25MCtiXD2nTHXLhkZp1rW0ek3ryfWbrm2Ap6%2FLY%2Bvv5yzdUaz8sdUd1WcNIu4YLV9DUEqn0igSzSHq2BrotUhC3RxChSahkoVMXeZsvgVZhMMfvkMcGOrABFSs3FNslputQadvmk6MzJYoY4FUmJKQtjLToJHPI%2B06kxfzGssralKRiRT0%2FYyeU2EDB9GkVOtlu3dy1qQBG3Yp79JNAYk8gjlOKEKVBMTgoiezSQTYGDfE%2FEpmB6wXC4jbAk1OPzbHgBI1G92UIsmjM7n46Ofo2FXbt%2B8UyWYsw1N%2F5JBO0UNgIauGqd7qU7w07clJOXKQFCZgMnn%2FtgSao%2FDAChvorcmbEsWdcpDc%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T221332Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYV6TY75NF%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8b6c1d8fdee3bf965bd05036f94884a720d3cb4bee30ccf9463efd97914adbcc&hash=c8a7ab244ec10178e4b13cb5daacbba8a0b9f139b1ffb011a79a3d5148023701&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016510710022406&tid=spdf-eda218b6-e1d5-4d02-870e-bec907c40615&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f565704&rr=98a881adfef013cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "21074791",
+    "Title": "Complications of stone baskets: 14-year review of the manufacturer and user facility device experience database.",
+    "pdf_url": "https://www.auajournals.org/doi/epdf/10.1016/j.juro.2010.08.091",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20883844",
+    "Title": "Endoscopic tattooing.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273305/1-s2.0-S0016510710X00104/1-s2.0-S0016510710017530/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIBsMmcJvZ%2FIiZf9x%2FgBgDU%2F5jwO%2BOGvTAE3MkmK3FWMiAiB0S4ZrakIjV1089gDKvfu8RWldkzWDaZNh4MhE44e3iSq7BQiX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMq0vb14XHBDnKuw92Ko8FCxodmkx%2Fzk4LOkNicp2Ok5128xst4mMSPx38wF7SMo7ohrQ2MC35Rrgs05oBJ0LCLNnyhP8jx%2BJsPtdbu3GlKr%2FjikNtmLYkYicTc9i4Tl5CwTdPEP2nVPMVk%2FzLUQmGx11Q7PBraTyBxDdmhe%2BrttgygB7KjrPFH8s6YEpOi9hF2a2skFGJqHCqDPslz4neZn3FWBKG%2FEH170zvPNPnBcd%2ByihPBUNDfEj5EooRhA6KwchlIhIBaIVH%2FpBCsclMwCunp8CrykfbRCJ%2FvYPbft69XWZd57vD6eklGAGtzMD1eQt9qxtJVR2rgFz2QMVsp%2Fts7uY6mWMx4IbOjrqx05w1qPtIT5NU7jyS0tCGvE4B3iwVlY1OX9r2Sds4lUah8oRX%2F0okWMMFqvDlEqhi0Ljaj128f7wpkHdj%2FrjT72yxH8dN8DUTpDSuqyyp8bX9zscOAmW5%2BeSCTHb7jQUuIq7NCKQfu1K3cRC3zjKqcYNY0DHRPGkWMAxykjIKg8RiOArjM%2BWtdM%2Btxxcgz06wFEBI5AjXMafTlkHu%2Ba6I8SbrXW1UbcudzROLkt6FGQtOWUqsA89CbxAZU6tTV87SZLaFSNgirHshvSDlaC%2Bkq8bJSU%2FqnPxSvTs8fASwOJgX2LpVsxqRo5cZtTzfl7%2B5F%2BSd6bV5n2%2BUCUe4Fw5Qs4q3q0WRtf7nx3eAYRnbSWMu%2Bu3HVEokv93z%2B%2Fc6PAZvCFWdqUnWQw93txUs9tDH6JsEBWpT4oXPLYtC%2Ft1K4D4D2WxbRU3nWFPkt3BetaZfzlVSoRlfz%2FZAm0Vxs%2FDFJ8H3cCMo6wWHylyC0%2FyShQt8Vk2ZydlS0AP8io7ojc51nMLHQpsDzenWTnSET6a0TjCY65DHBjqyAZemx0hq1bO4ArdBZn%2FptbgjlWfx7hg67XQJHezQqRZ5icppL0sc2nJTEXSBlo2tPKwPPtL0jSQ5A9HGaXeYCnL7YeT1s1Omu9ScmJUls8jxMm5KzIvY%2BSuWyi7NGcFg0J%2BN2pQZxCVJxQBwyDWGbPq1qxzjSQ7UadnI6ktgB%2FSGZTrq00ouxLazpOcA3ySZTR5HKuyYiFp6MGBe8kGfvxLwwqvW8wodUeAGDIj%2BJT0dAAc%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T221533Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYQSC3Y6I%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=075dd37f55652b7d84e209e518a9b630b6eeb379f50c6a7907395df94a629b91&hash=7742a07eee87861cac1c56b37e9a4ca742fb9586d766638bc55b1b4bacab9303&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016510710017530&tid=spdf-ac007909-ee57-4b34-a76e-432a6bfc4446&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f56525c&rr=98a8849feec313cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20883843",
+    "Title": "Automated endoscope reprocessors.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273305/1-s2.0-S0016510710X00104/1-s2.0-S0016510710017529/mainext.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIBsMmcJvZ%2FIiZf9x%2FgBgDU%2F5jwO%2BOGvTAE3MkmK3FWMiAiB0S4ZrakIjV1089gDKvfu8RWldkzWDaZNh4MhE44e3iSq7BQiX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMq0vb14XHBDnKuw92Ko8FCxodmkx%2Fzk4LOkNicp2Ok5128xst4mMSPx38wF7SMo7ohrQ2MC35Rrgs05oBJ0LCLNnyhP8jx%2BJsPtdbu3GlKr%2FjikNtmLYkYicTc9i4Tl5CwTdPEP2nVPMVk%2FzLUQmGx11Q7PBraTyBxDdmhe%2BrttgygB7KjrPFH8s6YEpOi9hF2a2skFGJqHCqDPslz4neZn3FWBKG%2FEH170zvPNPnBcd%2ByihPBUNDfEj5EooRhA6KwchlIhIBaIVH%2FpBCsclMwCunp8CrykfbRCJ%2FvYPbft69XWZd57vD6eklGAGtzMD1eQt9qxtJVR2rgFz2QMVsp%2Fts7uY6mWMx4IbOjrqx05w1qPtIT5NU7jyS0tCGvE4B3iwVlY1OX9r2Sds4lUah8oRX%2F0okWMMFqvDlEqhi0Ljaj128f7wpkHdj%2FrjT72yxH8dN8DUTpDSuqyyp8bX9zscOAmW5%2BeSCTHb7jQUuIq7NCKQfu1K3cRC3zjKqcYNY0DHRPGkWMAxykjIKg8RiOArjM%2BWtdM%2Btxxcgz06wFEBI5AjXMafTlkHu%2Ba6I8SbrXW1UbcudzROLkt6FGQtOWUqsA89CbxAZU6tTV87SZLaFSNgirHshvSDlaC%2Bkq8bJSU%2FqnPxSvTs8fASwOJgX2LpVsxqRo5cZtTzfl7%2B5F%2BSd6bV5n2%2BUCUe4Fw5Qs4q3q0WRtf7nx3eAYRnbSWMu%2Bu3HVEokv93z%2B%2Fc6PAZvCFWdqUnWQw93txUs9tDH6JsEBWpT4oXPLYtC%2Ft1K4D4D2WxbRU3nWFPkt3BetaZfzlVSoRlfz%2FZAm0Vxs%2FDFJ8H3cCMo6wWHylyC0%2FyShQt8Vk2ZydlS0AP8io7ojc51nMLHQpsDzenWTnSET6a0TjCY65DHBjqyAZemx0hq1bO4ArdBZn%2FptbgjlWfx7hg67XQJHezQqRZ5icppL0sc2nJTEXSBlo2tPKwPPtL0jSQ5A9HGaXeYCnL7YeT1s1Omu9ScmJUls8jxMm5KzIvY%2BSuWyi7NGcFg0J%2BN2pQZxCVJxQBwyDWGbPq1qxzjSQ7UadnI6ktgB%2FSGZTrq00ouxLazpOcA3ySZTR5HKuyYiFp6MGBe8kGfvxLwwqvW8wodUeAGDIj%2BJT0dAAc%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T221604Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYQSC3Y6I%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=016c4362b439a1386053abeaff65cac7041bb1c7ba6c4bacd5dc4210c77703c7&hash=6885100aa3fd1b6f9427780be902445f89eb159a7a1c5867e8041e166983c5f5&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016510710017529&tid=spdf-66bd8157-6b0f-4caf-8c95-e4348d8f6a44&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f565353&rr=98a885610b9613cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20806458",
+    "Title": "Stent fracture in the coronary and peripheral arteries.",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1540-8183.2010.00567.x",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20541746",
+    "Title": "Enteral nutrition access devices.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273305/1-s2.0-S0016510710X00086/1-s2.0-S0016510710001525/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIAZ6RxVu%2BDu%2FQS25mzdcwSs7MN%2BFWJjhWHM%2BHuAYN4KpAiEA%2F3K4vVv%2B5BD8XO2%2BxTCuhFfFz8cOE%2B3ju8jEHIYtDukquwUIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDBEgT2FgrNJDU2D%2FISqPBf29wbiFE67DlmjiKCC5Q7FaTl9ER27XDbtcbH1iorzTHelnYV3xZNPbbBKgqgg98U%2FKBFxUjoCvZu12tb7Ore71jbBqiUrEaNkibUcAwCRacAUCRnY7OD32Y1%2BfU7GCpfRtHq6FQq5SPyUwziPdysctOZYmECXQmmZoirtxjRJttm4PIvXRI96UaR%2BE1PZZYumWPKX4rX0Ug4oxcts5ObExPBidBOCJ5LLfPiGdFveZjgAhs9Sudn3sBaZ7pvQoKeGl1S%2FY9oylxVP8jrUMpfx5K9Kye8XXFwGdPhuZmcu9BZhMbc4mrwjDPZoCQ%2FRz%2Fyzrj2rvEWONuRKnMAWXzdiCFW8SfqSobs9kLTBu%2F2v9%2F2F4qq006iq7apLZ7Bw08soVaT7AcKlXJvNp6OqrTGNFqMEvM0O1dG0WCeseU3aKEcahiRN22QtGjRhnahz%2BdZkml5zTkhvkASFTYhjudV10aAIqqtwIzLEaPCxRiYTMQOq6mWMd93WmM32J%2FIiDAu8um8Zx7Tr95N5iEE6mXbzwkYbO2Nh3MKYHBj03nKMqq0Bo9TA3jAqve9qox%2FHJEWRxkMEdKxkIYHPLXQijy%2FRBhgyLnVzBPzElCCqmOqmA8Dt%2B4xn3Ef9M5JVrxJtQtkUHNqA6RIy%2FNPX8VDxVCd1YW6QlggY9jGbm8YsHSPOs8KHpDGXUUaWasE1MosYY5J3ImYo9gRXe90FNUT7qKvPKPRu%2Bz%2FklVx2nxZam8833I0uyfHhjH9aOu29f4JzKIGD5sdYA4Ui2QRC4HTwyrgXHSV7dCj9WV%2B%2F0vz7LUmpLsaaER9dN%2BZefeT%2FYHrMrVDy2CnjHLOtmVSZrHUC6o%2F1oxf90A5rA%2BCH9wxm994Iw4daQxwY6sQHFJh05urREVUDFFT5EfvjqWMauD5QG8hQkbj939hEzOnb9Pl9jAPu0Kx06NFFNsXNVv9ro8UOwe7utkUwKFLoOI4LL9mfuFuUd%2FbyEUYIn5d7hVbI5pbc1d0XW8T%2BdhSWd8Hze6jO9%2FbX9PVdyuEvcm7R1efgdCgYz8rRaKHdkYGIOo4DYMD%2F1XVnmogsGGT5GyNc2Aw60GTXq7oxap0blOI4N3CE9traMHT6vB6gXWt8%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T221848Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYSQDXWB2B%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8d4739ac32e83dccfa05bd16aa8525997003d685c91dddef3caebbe49c63ee0f&hash=3dbeea93cae16233a23b7f4730e8cd300e7a3cef690f72320728a60ca0fbc978&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016510710001525&tid=spdf-e2cc746d-d67b-478c-8373-2e732589de9b&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f565f53&rr=98a88962ae4b13cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20537638",
+    "Title": "Minimizing occupational hazards in endoscopy: personal protective equipment, radiation safety, and ergonomics.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273305/1-s2.0-S0016510710X00086/1-s2.0-S0016510710001446/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCOQy4157sZ1TAoNhKZ5ayHdqDHnzk9KM%2B3piQbXY5HFwIhAJR7bvLb%2BYzsXpiu8DAOjZYDBwXTYzlYA8JzslcFhvFbKrwFCJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgzZbxxpS5RRrCvFcWgqkAUbqrDtsP8pLVGQVPc6zXxWO2juRzhR6a6AaEOAOog%2BQLm2h%2BGNMdqXLfJmenQv8rC8%2BWEQgpmgC0or92iwI8Y82H2XkWpreie1GnVDlaUyiFgpOzvI33Eicj75U32uMW7zvjT4B3pm048Ixv7FnerXe4Kd6GWFfB0v64iUtfPK1nF4%2Bo%2BNtFTdnnmjcw1z07RUT29ouoplRNGXm39Ksul51gqTusEqgtY%2F%2FWQgRkvDpSP72o3%2FQaHTjQX5C1FxAtwGJJ4qrKEP9heoWQQWx3U3T1AmnRT59vce8O3lUHH9Otnk%2B%2F3ajpn%2BbMpHu%2BrPOYA20ix8dSesgjZvmvbdNThgX876gxhqv5YohjKJpUg6oUzWMZJTr3K5FLp39m20ioCZrpylwOZtF4RzLCR39CHj3Gh1Gc4ej5tLqY%2Bnv0HJEkdCZaE6%2F9%2Fu27iURv8hqISv%2BBhI2AQJdJCwdlbWo00YRp9AtRJ63mbYvz1ydLmLBtHhO9%2BsRpAQVSPrYaMykTUDs0C3jlPBIM0sHjEk99Vmucxxj%2B0hU7LpGC44JuJy0NcSe6b%2Fm8KbqfXz0PQe7aLgHUzgomrKAb71C2wtLTyIf2mYNuP6pQ4hX%2FanVm4CRk1dIw8n68u9NIWSex4cTdAzDS8Y183iJaPdNe31aoZ3W1M32yrdCbcJ%2F8YeFsNj8AcYk0h9O6mzZyg72zCjxUZ4TV%2BBUORrAJvPujjJRsp0a4jlTQVjOxEy2EYCox5t2I9xFrQ5dp23S45K8UgP8LIzJg137ecovidvj55lT%2Bgk78n46heM7S5hKoEMXF4hjelgQM1inNvisoP3m%2FiYm0Q0S77B1EL2H69bG7l9FMUmvZJpyvfyr5ZyUtvy7XldWjCK6ZDHBjqwAbdv%2B9P8MlDbVqrnd4ZlbqyUChEWbeo5GURO3WK%2FgHsht%2Fu9NduPQcZXF8bbAqepKuFXcrfm94I6SxKlowi41ixZVDx8pf22iqWJI6uLj%2BvLba2xBw7SlBZYwElXNqz20KfNP47NPZ2xglmnpPaKW%2FZ3aJoRtEk7NUwAuXYEfQFDPlOB%2BZSLnstRPe3pvUu2OCf8zDklBkroRB81XWiLGW33SRXhwPiGsNexUuYvEUj0&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T221938Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIAQ3PHCVTY4IB74TFH%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cc8fc04a1e49742e6124216f9a1fed5ff5ad41f8a8123178b044bf5df008c255&hash=8992952e789ac11633c58f679665e7ee1dcabd394a82887c31c8f545c8983a69&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016510710001446&tid=spdf-20b33ebb-0e00-404c-8760-1891aa06da8c&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f56075c&rr=98a88a9a0e0e13cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20513724",
+    "Title": "A response to \"Major complications associated with xenograft biologic mesh implantation in abdominal wall reconstruction\" (Harth KC, Rosen MJ. Surg Innov. 2009;16:324-329) and discussion of the MAUDE (manufacturer and user facility device experience) database, FDA regulation of biologic implants, and evidence-based medicine.",
+    "pdf_url": "https://journals.sagepub.com/doi/reader/10.1177/1553350610371214",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20504796",
+    "Title": "Xenograft biologic mesh implantation in abdominal wall reconstruction and the FDA MAUDE database.",
+    "pdf_url": "https://journals.sagepub.com/doi/reader/10.1177/1553350610368804",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20421100",
+    "Title": "The role of the U.S. Food and Drug Administration in device evaluation and monitoring.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273305/1-s2.0-S0016510710X00074/1-s2.0-S0016510710000386/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCOQy4157sZ1TAoNhKZ5ayHdqDHnzk9KM%2B3piQbXY5HFwIhAJR7bvLb%2BYzsXpiu8DAOjZYDBwXTYzlYA8JzslcFhvFbKrwFCJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgzZbxxpS5RRrCvFcWgqkAUbqrDtsP8pLVGQVPc6zXxWO2juRzhR6a6AaEOAOog%2BQLm2h%2BGNMdqXLfJmenQv8rC8%2BWEQgpmgC0or92iwI8Y82H2XkWpreie1GnVDlaUyiFgpOzvI33Eicj75U32uMW7zvjT4B3pm048Ixv7FnerXe4Kd6GWFfB0v64iUtfPK1nF4%2Bo%2BNtFTdnnmjcw1z07RUT29ouoplRNGXm39Ksul51gqTusEqgtY%2F%2FWQgRkvDpSP72o3%2FQaHTjQX5C1FxAtwGJJ4qrKEP9heoWQQWx3U3T1AmnRT59vce8O3lUHH9Otnk%2B%2F3ajpn%2BbMpHu%2BrPOYA20ix8dSesgjZvmvbdNThgX876gxhqv5YohjKJpUg6oUzWMZJTr3K5FLp39m20ioCZrpylwOZtF4RzLCR39CHj3Gh1Gc4ej5tLqY%2Bnv0HJEkdCZaE6%2F9%2Fu27iURv8hqISv%2BBhI2AQJdJCwdlbWo00YRp9AtRJ63mbYvz1ydLmLBtHhO9%2BsRpAQVSPrYaMykTUDs0C3jlPBIM0sHjEk99Vmucxxj%2B0hU7LpGC44JuJy0NcSe6b%2Fm8KbqfXz0PQe7aLgHUzgomrKAb71C2wtLTyIf2mYNuP6pQ4hX%2FanVm4CRk1dIw8n68u9NIWSex4cTdAzDS8Y183iJaPdNe31aoZ3W1M32yrdCbcJ%2F8YeFsNj8AcYk0h9O6mzZyg72zCjxUZ4TV%2BBUORrAJvPujjJRsp0a4jlTQVjOxEy2EYCox5t2I9xFrQ5dp23S45K8UgP8LIzJg137ecovidvj55lT%2Bgk78n46heM7S5hKoEMXF4hjelgQM1inNvisoP3m%2FiYm0Q0S77B1EL2H69bG7l9FMUmvZJpyvfyr5ZyUtvy7XldWjCK6ZDHBjqwAbdv%2B9P8MlDbVqrnd4ZlbqyUChEWbeo5GURO3WK%2FgHsht%2Fu9NduPQcZXF8bbAqepKuFXcrfm94I6SxKlowi41ixZVDx8pf22iqWJI6uLj%2BvLba2xBw7SlBZYwElXNqz20KfNP47NPZ2xglmnpPaKW%2FZ3aJoRtEk7NUwAuXYEfQFDPlOB%2BZSLnstRPe3pvUu2OCf8zDklBkroRB81XWiLGW33SRXhwPiGsNexUuYvEUj0&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T222206Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4IB74TFH%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7a078de6507286e063ddf92e87353cc3674b3d9632dc8d501dd955bd45a94727&hash=75175dff984c06563f75a1529f39c847293ec39dc9bfcaeca2a90b48ac0f2c0e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016510710000386&tid=spdf-54f1f6be-1f47-4a2d-9e36-eda254b3c5b3&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f560356&rr=98a88e3afd8013cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20381044",
+    "Title": "Interventional EUS.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273305/1-s2.0-S0016510710X00074/1-s2.0-S0016510710000374/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIAZ6RxVu%2BDu%2FQS25mzdcwSs7MN%2BFWJjhWHM%2BHuAYN4KpAiEA%2F3K4vVv%2B5BD8XO2%2BxTCuhFfFz8cOE%2B3ju8jEHIYtDukquwUIlv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDBEgT2FgrNJDU2D%2FISqPBf29wbiFE67DlmjiKCC5Q7FaTl9ER27XDbtcbH1iorzTHelnYV3xZNPbbBKgqgg98U%2FKBFxUjoCvZu12tb7Ore71jbBqiUrEaNkibUcAwCRacAUCRnY7OD32Y1%2BfU7GCpfRtHq6FQq5SPyUwziPdysctOZYmECXQmmZoirtxjRJttm4PIvXRI96UaR%2BE1PZZYumWPKX4rX0Ug4oxcts5ObExPBidBOCJ5LLfPiGdFveZjgAhs9Sudn3sBaZ7pvQoKeGl1S%2FY9oylxVP8jrUMpfx5K9Kye8XXFwGdPhuZmcu9BZhMbc4mrwjDPZoCQ%2FRz%2Fyzrj2rvEWONuRKnMAWXzdiCFW8SfqSobs9kLTBu%2F2v9%2F2F4qq006iq7apLZ7Bw08soVaT7AcKlXJvNp6OqrTGNFqMEvM0O1dG0WCeseU3aKEcahiRN22QtGjRhnahz%2BdZkml5zTkhvkASFTYhjudV10aAIqqtwIzLEaPCxRiYTMQOq6mWMd93WmM32J%2FIiDAu8um8Zx7Tr95N5iEE6mXbzwkYbO2Nh3MKYHBj03nKMqq0Bo9TA3jAqve9qox%2FHJEWRxkMEdKxkIYHPLXQijy%2FRBhgyLnVzBPzElCCqmOqmA8Dt%2B4xn3Ef9M5JVrxJtQtkUHNqA6RIy%2FNPX8VDxVCd1YW6QlggY9jGbm8YsHSPOs8KHpDGXUUaWasE1MosYY5J3ImYo9gRXe90FNUT7qKvPKPRu%2Bz%2FklVx2nxZam8833I0uyfHhjH9aOu29f4JzKIGD5sdYA4Ui2QRC4HTwyrgXHSV7dCj9WV%2B%2F0vz7LUmpLsaaER9dN%2BZefeT%2FYHrMrVDy2CnjHLOtmVSZrHUC6o%2F1oxf90A5rA%2BCH9wxm994Iw4daQxwY6sQHFJh05urREVUDFFT5EfvjqWMauD5QG8hQkbj939hEzOnb9Pl9jAPu0Kx06NFFNsXNVv9ro8UOwe7utkUwKFLoOI4LL9mfuFuUd%2FbyEUYIn5d7hVbI5pbc1d0XW8T%2BdhSWd8Hze6jO9%2FbX9PVdyuEvcm7R1efgdCgYz8rRaKHdkYGIOo4DYMD%2F1XVnmogsGGT5GyNc2Aw60GTXq7oxap0blOI4N3CE9traMHT6vB6gXWt8%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T222238Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYSQDXWB2B%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=412e37d67033376ffb275a2af5067051de6d2545ef6885ed781d7f2f15416926&hash=7e963e62ec00544648fba5eeaaa7091f0deb3e2ab8e7ed19ec9f1c7ef251c1a1&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0016510710000374&tid=spdf-b4432571-d049-4684-a83e-85c8370a7ce7&sid=b9108af89de6f64033881997ceff7ac9441dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f560303&rr=98a88eff296e13cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20351227",
+    "Title": "Review of adverse events associated with false glucose readings measured by GDH-PQQ-based glucose test strips in the presence of interfering sugars.",
+    "pdf_url": "https://scholar.google.com/scholar_url?url=https://diabetesjournals.org/care/article-pdf/33/4/728/605621/zdc00410000728.pdf&hl=en&sa=T&oi=ucasa&ct=ufr&ei=TkHkaP3IL_iu6rQPlOqwiQY&scisig=AAZF9b9DDucWbTffs9XSX1VTdTc0",
+    "has_pdf": true
+  },
+  {
+    "PMID": "20347546",
+    "Title": "Clinical relevance and treatment of carotid stent fractures.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/272610/1-s2.0-S0741521410X00052/1-s2.0-S0741521410002089/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDut%2F%2BIophFkjaxUIYsgjUgyL%2BnQi640NNAS%2BosXhTODwIhANsGtQa%2FPzR3Cn8RzAxdXMV8pctXWiBxQr8ZWeYri1%2BjKrsFCJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1Igxnu%2BnHID3p%2B1jMc2cqjwUQkv4hBmcnLxfDYBG87f3TSvzRa2JO9nik0GjbKPDJkwVKSJlq8M7rMXI3AfowctjrVuSxISg7lOv5DvNHm5t5QNn%2FucKpzBCiax1w4wwm5G0hVfCO4fFHEX%2Fbj9FdNblqHOBZnryKFbsxjEu1zbkOVffbCwgo%2Fl1pPn79zyG0j7pvlNZtmzULRrKq6Wb2ekcVEnNRmQ1C6P%2BX6F1ADEiqywUgKv4a7RxonqbbIaktOeQDUtFmLyLETBkbv27Ee9T6hD32lOtWNUks%2BaACnZtUBDObbPR%2BUjz%2FO2kifOzz7vc5K5tyM%2Fj5fcY8B1vO2UQW9gngk6zabBMsEOk%2F%2BeCgEt1YxSdsfoxlPNDWjG3rhzaIvDhNAPthISJ9YXTSoovJIRiDACHpBZH3FJcFe3%2B6tFxcvPQ2p9M9DECBIdppQcOy2vAHm0nLq8vh5qK49R%2BDr4V1cDYULjvxZbkot8%2Bw94HtWEyKRtwHN0Ip8f2AO9WOrPg5hu5H4s2XmCRKisgREcOfde5oSPhm%2BnUV5Q9oYgIIQU0v4Ob%2BeHUCnkAyytiwvN1nX7yI%2BMgQh2WRhmpq6k0dZuRmLFrfHlSRf%2B8OpFzwT8%2BK7Z79%2FRT5F40guV%2FGZMfk%2FfHap3reDD33JMANZ2AYmWGZ9J7MkdaD%2FQwxHwDfvikw67s9mcQIj4%2BNO3rPlHE9k9xjkZyOelg569al9mB6kNvLPVtQRpETX9dHr18%2B2aNeU1TaqJ0eEJwWmCDrGWRITRCB42hIXeU4b25MCtiXD2nTHXLhkZp1rW0ek3ryfWbrm2Ap6%2FLY%2Bvv5yzdUaz8sdUd1WcNIu4YLV9DUEqn0igSzSHq2BrotUhC3RxChSahkoVMXeZsvgVZhMMfvkMcGOrABFSs3FNslputQadvmk6MzJYoY4FUmJKQtjLToJHPI%2B06kxfzGssralKRiRT0%2FYyeU2EDB9GkVOtlu3dy1qQBG3Yp79JNAYk8gjlOKEKVBMTgoiezSQTYGDfE%2FEpmB6wXC4jbAk1OPzbHgBI1G92UIsmjM7n46Ofo2FXbt%2B8UyWYsw1N%2F5JBO0UNgIauGqd7qU7w07clJOXKQFCZgMnn%2FtgSao%2FDAChvorcmbEsWdcpDc%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T222416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIAQ3PHCVTYV6TY75NF%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b9917350fd4e0a6c12c14a051f15d8b1908d426b89bcf82969ad32a5273b08bb&hash=79d0514ff0dca2b6ff4a115c4cefe9509cd0d452a72f01b4f032d21e1d0eb1f0&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0741521410002089&tid=spdf-54f8cf2f-e7c9-4458-ac6b-6958fc7a0a5a&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f575753&rr=98a891675f2613cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "19946113",
+    "Title": "Deaths and cardiovascular injuries due to device-assisted implantable cardioverter-defibrillator and pacemaker lead extraction.",
+    "pdf_url": "https://academic.oup.com/europace/article-pdf/12/3/395/7274358/eup375.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "19787394",
+    "Title": "ArteFill permanent injectable for soft tissue augmentation: I. Mechanism of action and injection techniques.",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00266-009-9413-1.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "19614901",
+    "Title": "Indoor tanning injuries: an evaluation of FDA adverse event reporting data.",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1600-0781.2009.00440.x",
+    "has_pdf": true
+  },
+  {
+    "PMID": "19595398",
+    "Title": "Drug-eluting stent fracture and acute coronary syndrome.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273434/1-s2.0-S1553838909X00047/1-s2.0-S1553838909000463/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDiIFXH8%2BaXFrX4ZVTm0YjLolkb9Gazq275HmvqC%2BMFrwIgIKWnm3ehdD4zzdLsFeVc316tG8PNhHqp294N8n02NRYquwUIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDCUS9h%2BLH%2FlzB6OBTiqPBQevO0aqZF3SsSGwWjqbDh777UtSbvEUp24FXpFv9yHUJeosCkaaNXjqOVfRhbFLzbeBZ98reYXMi3oqlwLCrQvLDT4yUjk%2B9omoX3vJxtQ%2BHJpqEQ1kEH64nouIeQlCxb%2F9i%2BzSu%2F%2B38cS8V9E3rDPH8XU3f66bqx2dFBRblB5j9sG%2BUBvnWSkUAgFDollyxc4IE5%2BNVmnaPxZTgFSzy7L2q%2B1gguQ7X3B02HmYUdN94xFm9WP1fnTwzJ2D%2BObRORjHlmQrsf4yM7vYDaUELqbXDlV2iMPnbB3KP4R2wPxz0ZMJ7e6ukaFY6uVbwcsUDLUlhx6u%2FsQywrjDLORf7gGzPYAbeUhwZDWidUOVTfrg7LN13ZQ6wA%2FUMDkCbd7rBtt5JZlsJspEIYd0zC7FqZItzc%2FG50PwSrSS92uO4OEtsj34ZM%2B6YVru0CeuEuQ5K4fSgLn9Dya%2FABbtu%2BQ820J%2FuSAiv0TqOgSZOvob9spI7pr9X6rAdKIxxo8SA9evhHIDhAI7nRWL2m%2FVmfGtEpUNLoADmV%2Bnl2fQX2c1jZK5FhDusNi9E5jGJs8Y%2Ffju9m6I3enBAS12IDaSQqyohq6PNvp0Gn7VR9PZ9APppTi3lw4r5LaIfqOYgaj9Ql7vyuM%2BEESN72fOItUwzcMPPetKXXaWlbGYap%2ByURxfVcaMfDE56IrSrr7InUhPjGY9sT5YW69DLjnfzfQ5d8fciSIej3jtpIrMH7FHlT5u7lulWM1k9ZeR1W3Cab%2BWi89yAJz53GsZskv6DI7PrzZqe1%2FMzz0E5Wgv4JfsKWVcjhpzFC5U7t45V%2B5AuqtIKNcKUejnF%2BPJdqDihRudxsJ0EP1hYTY1UL%2BTNgg0ozi8zk0w8vSQxwY6sQFEGD01ewS4Jjn4BZU%2BtDgH%2FF7VcaFc8mzoKIq0XVzst6dwAmsOfcGJXNTkiYNR1PEw39S2SMy7bePv%2B66S4UODEwacOSOnQSMIuVW23bAujIsxrLDDESQRI0BxqYKFTqXui2atnamRzCXpwxo7ph2PKVEDTTEGsWFa4dD83q959xo7Bv3CEve7Wz0MDx88B4nDHkOxyKJnNNzPGMEnGa4IvhOt5YeDBEKSuvXk5Ia%2B2TU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T222841Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3CJ6C457%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=221ed4961ec243f8494ff64a296471ee17f92731b26a6f8166dda2d81fc779f4&hash=4aef3cfbd70e6c2eb8db3413539f905381938b1cbce495e34738b0a1869baef2&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1553838909000463&tid=spdf-acc00901-71e8-47c8-8b75-c097d0351961&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f575100&rr=98a897e0df2713cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "19468005",
+    "Title": "Ambulance stretcher adverse events.",
+    "pdf_url": "https://qualitysafety.bmj.com/content/qhc/18/3/213.full.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "19464444",
+    "Title": "Analysis of the US Food and Drug Administration Manufacturer and User Facility Device Experience database for adverse events involving Amplatzer septal occluder devices and comparison with the Society of Thoracic Surgery congenital cardiac surgery database.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/272864/1-s2.0-S0022522309X0005X/1-s2.0-S0022522309003559/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCPFNxEJLWtKTAn0n59k1qIJtDN%2Fxn4molF%2B%2FGd8685kQIgQl%2BtOskMaT89RCmGFiy3bjJy7KOAHgAxs7dEumhKwwEqvAUIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDJhksU4m96tB7nsMxCqQBbNhwTOm2fzYbQtdWdLeKLxQqMtPyigmpVac73kCTasXUbjlo8FVHeQJC0%2BTtzO2L46WRtzvZOtHIBn1ZaZKMRUrrnJUAthurYW6HccqT4YlsKj%2BHvQKuUUt1DnnKSkZv%2B%2B3tSy%2B%2Bwt0BIR6%2FCLL6DKoJs4g8seGuSKe4pPVfkBll9Ji1A1shYDxGAldqXiYeYHaoDzDjYaiQw6c7JEI0kdsSnHQ3TW28isdDdBFzqfM2n0yVibXNzYUEfZESVGr3g4RugRyDmKPqhggRggTm33k4%2FxviFrqpHYWDWFz2ZHQjpi1F2LV8MsXf7tPZ%2F3pUyq9Wa5%2FptlGaXUqrPs2o1TAtXZB1YUN7fS3DFlH4H0XhTEtgC03cdvJ4n%2BF65vKUrCSlfFEWFTWb2sVvAD8MEHejq8LT1Y246nFqWtcmQ6Ho7Q7qZm2p%2BaB0FJ%2Bh4%2B0UFxVH2%2BDaxJoQRyoW23oCZSZGBzDkLNnZxT%2FI6Vqsorn%2BbrcH1N2ui5DSUj7v7cU5fjCxf8JAnL1Emqc2nnRqRCoGjXe1iFDzTRL%2BPXg4H%2FuH5NRnIVW0KiAxAXoz%2F3qVOYGqGo1UwnsQCZMgEhAVbBmzBDl4a1P1aBwkVUa9x%2F9W1TPZFgOQFqjPaiOCpaxbS4HT%2BsvEsGvNw9BGxDg5zMmBly8eV63sVS0tfu2JXOFO8jSxbE0%2BhHh963r0ZOhCtCABfvv80gZR9piLS7PbpxaOat7PrvkpLy69KP5LeCIab%2BlFoPVzpgSvoB0rmiwqKH70R1rlIBRFCRstBTGyr7O7QKaqPDqcNtQdo3c5%2BvtGP4hAeGT2W84zdDIMALMfkkM5ORFE17t7TnxIkW8jKJ1aWSaUnjVAlQFxGbzFeoDMIj4kMcGOrEBDuEAotfPLb%2Fk34scF96pqm3JWPMUoewaqRzN6jGvzMUDitVuyZgkOMX%2BK9lWdRv%2Fnl5s%2BuA6%2BBRfw0e4zRrarR%2FPwm1QEtj0cy%2B5Nb71DuYyadJm9lg1Lp6rQ6YHnmdh4M4SR3ctEV4kJoAWwrMnaXXSRHd5QvAuZr3yjA7VWMHXhSVAaYefNu1GCLpVZ%2BPpUbjEbuVUGwcvUqjzJIM1MfJDFqgMIuWxHoPRJxPcyzPy&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T223011Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVS7XKS25%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=708d623cf245f55f81203c0f7c5580b4e1b60c422cc7320d09c12538f13eafab&hash=1c8a20e6651080c5146dc5ae63ccbe81895d794eac58825d7d55f06a47dfd5a6&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0022522309003559&tid=spdf-a0d0bf5b-d3a0-4434-9af3-ca5a13b9b25d&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f570754&rr=98a89a1039bf13cd&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "19406458",
+    "Title": "Analysis of techniques to secure the renal hilum during laparoscopic donor nephrectomy: review of the FDA database.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/271959/1-s2.0-S0090429509X00063/1-s2.0-S0090429508018438/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDiIFXH8%2BaXFrX4ZVTm0YjLolkb9Gazq275HmvqC%2BMFrwIgIKWnm3ehdD4zzdLsFeVc316tG8PNhHqp294N8n02NRYquwUIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDCUS9h%2BLH%2FlzB6OBTiqPBQevO0aqZF3SsSGwWjqbDh777UtSbvEUp24FXpFv9yHUJeosCkaaNXjqOVfRhbFLzbeBZ98reYXMi3oqlwLCrQvLDT4yUjk%2B9omoX3vJxtQ%2BHJpqEQ1kEH64nouIeQlCxb%2F9i%2BzSu%2F%2B38cS8V9E3rDPH8XU3f66bqx2dFBRblB5j9sG%2BUBvnWSkUAgFDollyxc4IE5%2BNVmnaPxZTgFSzy7L2q%2B1gguQ7X3B02HmYUdN94xFm9WP1fnTwzJ2D%2BObRORjHlmQrsf4yM7vYDaUELqbXDlV2iMPnbB3KP4R2wPxz0ZMJ7e6ukaFY6uVbwcsUDLUlhx6u%2FsQywrjDLORf7gGzPYAbeUhwZDWidUOVTfrg7LN13ZQ6wA%2FUMDkCbd7rBtt5JZlsJspEIYd0zC7FqZItzc%2FG50PwSrSS92uO4OEtsj34ZM%2B6YVru0CeuEuQ5K4fSgLn9Dya%2FABbtu%2BQ820J%2FuSAiv0TqOgSZOvob9spI7pr9X6rAdKIxxo8SA9evhHIDhAI7nRWL2m%2FVmfGtEpUNLoADmV%2Bnl2fQX2c1jZK5FhDusNi9E5jGJs8Y%2Ffju9m6I3enBAS12IDaSQqyohq6PNvp0Gn7VR9PZ9APppTi3lw4r5LaIfqOYgaj9Ql7vyuM%2BEESN72fOItUwzcMPPetKXXaWlbGYap%2ByURxfVcaMfDE56IrSrr7InUhPjGY9sT5YW69DLjnfzfQ5d8fciSIej3jtpIrMH7FHlT5u7lulWM1k9ZeR1W3Cab%2BWi89yAJz53GsZskv6DI7PrzZqe1%2FMzz0E5Wgv4JfsKWVcjhpzFC5U7t45V%2B5AuqtIKNcKUejnF%2BPJdqDihRudxsJ0EP1hYTY1UL%2BTNgg0ozi8zk0w8vSQxwY6sQFEGD01ewS4Jjn4BZU%2BtDgH%2FF7VcaFc8mzoKIq0XVzst6dwAmsOfcGJXNTkiYNR1PEw39S2SMy7bePv%2B66S4UODEwacOSOnQSMIuVW23bAujIsxrLDDESQRI0BxqYKFTqXui2atnamRzCXpwxo7ph2PKVEDTTEGsWFa4dD83q959xo7Bv3CEve7Wz0MDx88B4nDHkOxyKJnNNzPGMEnGa4IvhOt5YeDBEKSuvXk5Ia%2B2TU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T223213Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3CJ6C457%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=dd8c7cd57151a705064f9c351ba8ec811f69c96401d10e05856e494b7912c81c&hash=4c437223ed6f6538e08a9ee37782d9890d9b408d86b9d90fa3ddefb0a078d65c&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0090429508018438&tid=spdf-2fe979e7-8e33-4a2b-9c33-81ee3b88f9f1&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f570255&rr=98a89d0d69bd61fb&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "19322228",
+    "Title": "The NTI-tss device may be used successfully in the management of bruxism and TMD.",
+    "pdf_url": "https://www.nature.com/articles/6400635.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "30172248",
+    "Title": "Medical Bioethics in Dermatologic Procedures.",
+    "pdf_url": "https://pubmed.ncbi.nlm.nih.gov/30172248/",
+    "has_pdf": false
+  },
+  {
+    "PMID": "18662411",
+    "Title": "The NTI-tss device for the therapy of bruxism, temporomandibular disorders, and headache - where do we stand? A qualitative systematic review of the literature.",
+    "pdf_url": "https://bmcoralhealth.biomedcentral.com/counter/pdf/10.1186/1472-6831-8-22.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "18450857",
+    "Title": "Adolescent use of insulin and patient-controlled analgesia pump technology: a 10-year Food and Drug Administration retrospective study of adverse events.",
+    "pdf_url": "https://publications.aap.org/pediatrics/article-pdf/121/5/e1133/1175579/zpe005080e1133.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "18377477",
+    "Title": "Major complications associated with transcatheter atrial septal occluder implantation: a review of the medical literature and the manufacturer and user facility device experience (MAUDE) database.",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1747-0803.2007.00107.x",
+    "has_pdf": true
+  },
+  {
+    "PMID": "18372034",
+    "Title": "Bladder neck contractures related to the use of Hem-o-lok clips in robot-assisted laparoscopic radical prostatectomy.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/271959/1-s2.0-S0090429508X0007X/1-s2.0-S0090429507024909/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCOQy4157sZ1TAoNhKZ5ayHdqDHnzk9KM%2B3piQbXY5HFwIhAJR7bvLb%2BYzsXpiu8DAOjZYDBwXTYzlYA8JzslcFhvFbKrwFCJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgzZbxxpS5RRrCvFcWgqkAUbqrDtsP8pLVGQVPc6zXxWO2juRzhR6a6AaEOAOog%2BQLm2h%2BGNMdqXLfJmenQv8rC8%2BWEQgpmgC0or92iwI8Y82H2XkWpreie1GnVDlaUyiFgpOzvI33Eicj75U32uMW7zvjT4B3pm048Ixv7FnerXe4Kd6GWFfB0v64iUtfPK1nF4%2Bo%2BNtFTdnnmjcw1z07RUT29ouoplRNGXm39Ksul51gqTusEqgtY%2F%2FWQgRkvDpSP72o3%2FQaHTjQX5C1FxAtwGJJ4qrKEP9heoWQQWx3U3T1AmnRT59vce8O3lUHH9Otnk%2B%2F3ajpn%2BbMpHu%2BrPOYA20ix8dSesgjZvmvbdNThgX876gxhqv5YohjKJpUg6oUzWMZJTr3K5FLp39m20ioCZrpylwOZtF4RzLCR39CHj3Gh1Gc4ej5tLqY%2Bnv0HJEkdCZaE6%2F9%2Fu27iURv8hqISv%2BBhI2AQJdJCwdlbWo00YRp9AtRJ63mbYvz1ydLmLBtHhO9%2BsRpAQVSPrYaMykTUDs0C3jlPBIM0sHjEk99Vmucxxj%2B0hU7LpGC44JuJy0NcSe6b%2Fm8KbqfXz0PQe7aLgHUzgomrKAb71C2wtLTyIf2mYNuP6pQ4hX%2FanVm4CRk1dIw8n68u9NIWSex4cTdAzDS8Y183iJaPdNe31aoZ3W1M32yrdCbcJ%2F8YeFsNj8AcYk0h9O6mzZyg72zCjxUZ4TV%2BBUORrAJvPujjJRsp0a4jlTQVjOxEy2EYCox5t2I9xFrQ5dp23S45K8UgP8LIzJg137ecovidvj55lT%2Bgk78n46heM7S5hKoEMXF4hjelgQM1inNvisoP3m%2FiYm0Q0S77B1EL2H69bG7l9FMUmvZJpyvfyr5ZyUtvy7XldWjCK6ZDHBjqwAbdv%2B9P8MlDbVqrnd4ZlbqyUChEWbeo5GURO3WK%2FgHsht%2Fu9NduPQcZXF8bbAqepKuFXcrfm94I6SxKlowi41ixZVDx8pf22iqWJI6uLj%2BvLba2xBw7SlBZYwElXNqz20KfNP47NPZ2xglmnpPaKW%2FZ3aJoRtEk7NUwAuXYEfQFDPlOB%2BZSLnstRPe3pvUu2OCf8zDklBkroRB81XWiLGW33SRXhwPiGsNexUuYvEUj0&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T223908Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4IB74TFH%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=87105be9632a520f23a51d4e1763dc5e4fb19a8adaadd7deb12df092dfd3f6df&hash=fef43f65f39e51ef2f8649a9ef4ad03351b2d78b81e536a63ef28ae9b0ad8fcb&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0090429507024909&tid=spdf-3d84f118-f34a-47c5-a1d6-a7c5509dd22c&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f0f5157&rr=98a8a72e1f6319b0&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "18323318",
+    "Title": "Epidural conduction device fractures and complications of retained fragments.",
+    "pdf_url": "https://pubmed.ncbi.nlm.nih.gov/18323318/",
+    "has_pdf": true
+  },
+  {
+    "PMID": "18312981",
+    "Title": "A comprehensive review of suburethral sling procedure complications.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273426/1-s2.0-S1553465008X00032/1-s2.0-S1553465007012071/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCPFNxEJLWtKTAn0n59k1qIJtDN%2Fxn4molF%2B%2FGd8685kQIgQl%2BtOskMaT89RCmGFiy3bjJy7KOAHgAxs7dEumhKwwEqvAUIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDJhksU4m96tB7nsMxCqQBbNhwTOm2fzYbQtdWdLeKLxQqMtPyigmpVac73kCTasXUbjlo8FVHeQJC0%2BTtzO2L46WRtzvZOtHIBn1ZaZKMRUrrnJUAthurYW6HccqT4YlsKj%2BHvQKuUUt1DnnKSkZv%2B%2B3tSy%2B%2Bwt0BIR6%2FCLL6DKoJs4g8seGuSKe4pPVfkBll9Ji1A1shYDxGAldqXiYeYHaoDzDjYaiQw6c7JEI0kdsSnHQ3TW28isdDdBFzqfM2n0yVibXNzYUEfZESVGr3g4RugRyDmKPqhggRggTm33k4%2FxviFrqpHYWDWFz2ZHQjpi1F2LV8MsXf7tPZ%2F3pUyq9Wa5%2FptlGaXUqrPs2o1TAtXZB1YUN7fS3DFlH4H0XhTEtgC03cdvJ4n%2BF65vKUrCSlfFEWFTWb2sVvAD8MEHejq8LT1Y246nFqWtcmQ6Ho7Q7qZm2p%2BaB0FJ%2Bh4%2B0UFxVH2%2BDaxJoQRyoW23oCZSZGBzDkLNnZxT%2FI6Vqsorn%2BbrcH1N2ui5DSUj7v7cU5fjCxf8JAnL1Emqc2nnRqRCoGjXe1iFDzTRL%2BPXg4H%2FuH5NRnIVW0KiAxAXoz%2F3qVOYGqGo1UwnsQCZMgEhAVbBmzBDl4a1P1aBwkVUa9x%2F9W1TPZFgOQFqjPaiOCpaxbS4HT%2BsvEsGvNw9BGxDg5zMmBly8eV63sVS0tfu2JXOFO8jSxbE0%2BhHh963r0ZOhCtCABfvv80gZR9piLS7PbpxaOat7PrvkpLy69KP5LeCIab%2BlFoPVzpgSvoB0rmiwqKH70R1rlIBRFCRstBTGyr7O7QKaqPDqcNtQdo3c5%2BvtGP4hAeGT2W84zdDIMALMfkkM5ORFE17t7TnxIkW8jKJ1aWSaUnjVAlQFxGbzFeoDMIj4kMcGOrEBDuEAotfPLb%2Fk34scF96pqm3JWPMUoewaqRzN6jGvzMUDitVuyZgkOMX%2BK9lWdRv%2Fnl5s%2BuA6%2BBRfw0e4zRrarR%2FPwm1QEtj0cy%2B5Nb71DuYyadJm9lg1Lp6rQ6YHnmdh4M4SR3ctEV4kJoAWwrMnaXXSRHd5QvAuZr3yjA7VWMHXhSVAaYefNu1GCLpVZ%2BPpUbjEbuVUGwcvUqjzJIM1MfJDFqgMIuWxHoPRJxPcyzPy&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T224043Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVS7XKS25%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f106df3a7e21077988637a295df355b65dd7c2cdf2d92412c4ed6f0a9cce8e8c&hash=39af4e862852c3762e0131d0bc5135343c944b83653f2059307edd0e0636629f&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1553465007012071&tid=spdf-aba64fb7-0d34-4073-b8e0-ee4c07d1cf5c&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f0f5f52&rr=98a8a97f8cae19b0&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "18304403",
+    "Title": "Device failures associated with patient injuries during robot-assisted laparoscopic surgeries: a comprehensive review of FDA MAUDE database.",
+    "pdf_url": "https://www.canjurol.com/html/subscriber/Spdf/V15I01/V15I01-11-DrAndonian.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "18303506",
+    "Title": "Introduction to the MAUDE database.",
+    "pdf_url": "https://journals.lww.com/clinicalobgyn/fulltext/2008/03000/introduction_to_the_maude_database.14.aspx",
+    "has_pdf": true
+  },
+  {
+    "PMID": "18258157",
+    "Title": "Form and function of vena cava filters: how do optional filters measure up?",
+    "pdf_url": "https://journals.sagepub.com/doi/10.2310/6670.2008.00011?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed",
+    "has_pdf": false
+  },
+  {
+    "PMID": "18090097",
+    "Title": "Electrode migration after cochlear implantation.",
+    "pdf_url": "https://journals.lww.com/otology-neurotology/fulltext/2008/02000/electrode_migration_after_cochlear_implantation.11.aspx",
+    "has_pdf": true
+  },
+  {
+    "PMID": "17919695",
+    "Title": "Mechanisms of hemostatic failure during laparoscopic nephrectomy: review of Food and Drug Administration database.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/271959/1-s2.0-S0090429507X04618/1-s2.0-S0090429507017980/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDiIFXH8%2BaXFrX4ZVTm0YjLolkb9Gazq275HmvqC%2BMFrwIgIKWnm3ehdD4zzdLsFeVc316tG8PNhHqp294N8n02NRYquwUIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDCUS9h%2BLH%2FlzB6OBTiqPBQevO0aqZF3SsSGwWjqbDh777UtSbvEUp24FXpFv9yHUJeosCkaaNXjqOVfRhbFLzbeBZ98reYXMi3oqlwLCrQvLDT4yUjk%2B9omoX3vJxtQ%2BHJpqEQ1kEH64nouIeQlCxb%2F9i%2BzSu%2F%2B38cS8V9E3rDPH8XU3f66bqx2dFBRblB5j9sG%2BUBvnWSkUAgFDollyxc4IE5%2BNVmnaPxZTgFSzy7L2q%2B1gguQ7X3B02HmYUdN94xFm9WP1fnTwzJ2D%2BObRORjHlmQrsf4yM7vYDaUELqbXDlV2iMPnbB3KP4R2wPxz0ZMJ7e6ukaFY6uVbwcsUDLUlhx6u%2FsQywrjDLORf7gGzPYAbeUhwZDWidUOVTfrg7LN13ZQ6wA%2FUMDkCbd7rBtt5JZlsJspEIYd0zC7FqZItzc%2FG50PwSrSS92uO4OEtsj34ZM%2B6YVru0CeuEuQ5K4fSgLn9Dya%2FABbtu%2BQ820J%2FuSAiv0TqOgSZOvob9spI7pr9X6rAdKIxxo8SA9evhHIDhAI7nRWL2m%2FVmfGtEpUNLoADmV%2Bnl2fQX2c1jZK5FhDusNi9E5jGJs8Y%2Ffju9m6I3enBAS12IDaSQqyohq6PNvp0Gn7VR9PZ9APppTi3lw4r5LaIfqOYgaj9Ql7vyuM%2BEESN72fOItUwzcMPPetKXXaWlbGYap%2ByURxfVcaMfDE56IrSrr7InUhPjGY9sT5YW69DLjnfzfQ5d8fciSIej3jtpIrMH7FHlT5u7lulWM1k9ZeR1W3Cab%2BWi89yAJz53GsZskv6DI7PrzZqe1%2FMzz0E5Wgv4JfsKWVcjhpzFC5U7t45V%2B5AuqtIKNcKUejnF%2BPJdqDihRudxsJ0EP1hYTY1UL%2BTNgg0ozi8zk0w8vSQxwY6sQFEGD01ewS4Jjn4BZU%2BtDgH%2FF7VcaFc8mzoKIq0XVzst6dwAmsOfcGJXNTkiYNR1PEw39S2SMy7bePv%2B66S4UODEwacOSOnQSMIuVW23bAujIsxrLDDESQRI0BxqYKFTqXui2atnamRzCXpwxo7ph2PKVEDTTEGsWFa4dD83q959xo7Bv3CEve7Wz0MDx88B4nDHkOxyKJnNNzPGMEnGa4IvhOt5YeDBEKSuvXk5Ia%2B2TU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T224544Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3CJ6C457%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c5edf47f5343b55f4de0f202ea34c067c27fdf58c8a7a1ce9d9befcd175335b3&hash=a7c7bf7ccea2b81af9c1a94b54b2816e750245e4a5a3dec7375f6790b9ca7cf5&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0090429507017980&tid=spdf-58cb791d-4665-44b7-b354-32f3ee7d7e2f&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f0c5601&rr=98a8b0d8bca019b0&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "17575537",
+    "Title": "Endotherapy and surgery for GERD.",
+    "pdf_url": "https://journals.lww.com/jcge/fulltext/2007/07001/endotherapy_and_surgery_for_gerd.9.aspx",
+    "has_pdf": true
+  },
+  {
+    "PMID": "17630160",
+    "Title": "Endometrial ablation devices: review of a manufacturer and user facility device experience database.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273426/1-s2.0-S1553465007X00190/1-s2.0-S1553465007002075/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDiIFXH8%2BaXFrX4ZVTm0YjLolkb9Gazq275HmvqC%2BMFrwIgIKWnm3ehdD4zzdLsFeVc316tG8PNhHqp294N8n02NRYquwUIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDCUS9h%2BLH%2FlzB6OBTiqPBQevO0aqZF3SsSGwWjqbDh777UtSbvEUp24FXpFv9yHUJeosCkaaNXjqOVfRhbFLzbeBZ98reYXMi3oqlwLCrQvLDT4yUjk%2B9omoX3vJxtQ%2BHJpqEQ1kEH64nouIeQlCxb%2F9i%2BzSu%2F%2B38cS8V9E3rDPH8XU3f66bqx2dFBRblB5j9sG%2BUBvnWSkUAgFDollyxc4IE5%2BNVmnaPxZTgFSzy7L2q%2B1gguQ7X3B02HmYUdN94xFm9WP1fnTwzJ2D%2BObRORjHlmQrsf4yM7vYDaUELqbXDlV2iMPnbB3KP4R2wPxz0ZMJ7e6ukaFY6uVbwcsUDLUlhx6u%2FsQywrjDLORf7gGzPYAbeUhwZDWidUOVTfrg7LN13ZQ6wA%2FUMDkCbd7rBtt5JZlsJspEIYd0zC7FqZItzc%2FG50PwSrSS92uO4OEtsj34ZM%2B6YVru0CeuEuQ5K4fSgLn9Dya%2FABbtu%2BQ820J%2FuSAiv0TqOgSZOvob9spI7pr9X6rAdKIxxo8SA9evhHIDhAI7nRWL2m%2FVmfGtEpUNLoADmV%2Bnl2fQX2c1jZK5FhDusNi9E5jGJs8Y%2Ffju9m6I3enBAS12IDaSQqyohq6PNvp0Gn7VR9PZ9APppTi3lw4r5LaIfqOYgaj9Ql7vyuM%2BEESN72fOItUwzcMPPetKXXaWlbGYap%2ByURxfVcaMfDE56IrSrr7InUhPjGY9sT5YW69DLjnfzfQ5d8fciSIej3jtpIrMH7FHlT5u7lulWM1k9ZeR1W3Cab%2BWi89yAJz53GsZskv6DI7PrzZqe1%2FMzz0E5Wgv4JfsKWVcjhpzFC5U7t45V%2B5AuqtIKNcKUejnF%2BPJdqDihRudxsJ0EP1hYTY1UL%2BTNgg0ozi8zk0w8vSQxwY6sQFEGD01ewS4Jjn4BZU%2BtDgH%2FF7VcaFc8mzoKIq0XVzst6dwAmsOfcGJXNTkiYNR1PEw39S2SMy7bePv%2B66S4UODEwacOSOnQSMIuVW23bAujIsxrLDDESQRI0BxqYKFTqXui2atnamRzCXpwxo7ph2PKVEDTTEGsWFa4dD83q959xo7Bv3CEve7Wz0MDx88B4nDHkOxyKJnNNzPGMEnGa4IvhOt5YeDBEKSuvXk5Ia%2B2TU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T224733Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3CJ6C457%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=08c06090c39fdbb754451624eeb28d375f0842165271723cb0488b37d10f3b20&hash=caa967e7e29239293397949bce8d07e0c36bb27ff36777f991065cd5cf47e26a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1553465007002075&tid=spdf-03fe2753-594f-4534-be67-eb307a87ea83&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f0c555d&rr=98a8b3830b9719b0&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "17617499",
+    "Title": "Adverse events involving intravenous patient-controlled analgesia.",
+    "pdf_url": "https://academic.oup.com/ajhp/article-pdf/64/14/1492/28327247/ajhp1492.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "17599673",
+    "Title": "Early failure of a small-diameter high-voltage implantable cardioverter-defibrillator lead.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273164/1-s2.0-S1547527107X00468/1-s2.0-S1547527107004067/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCuyI5RFrApyGcazc5byRHmRCBDcqdDu2e0WgDp4lb5FQIhAJZ2B4COtW66VQBQlkJmJgSCGPVhjdqCkg%2Bzb50OnBcaKrwFCJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1Igz8xbKm%2Bg4fY66xj0oqkAXxgGjcpiYu2Q0nJmKAMbX%2BjaSyBkHjtmzAU47oMsEQgCXNGhe6SFHo5Hr7zrqlH3P8iUoWcmB%2F0zYslvUx0N6EeswIEPNs4m7I66Qt5Ol7TW0Cp6UI9d%2BI1AieKGUoDIWBp06IusbPro01GCXCURtufZc2X3CIO23eDbDA7MBOS%2FCsWn6E1mU6KXpH0v60bqw153nsA0MN3eveBs1TCrokw%2FVrGf4wz9hUgnRLf7ClDF8VweqcVDHCGIaTZBlKiyKSekUdYCFheqk6UzabvQOpemzQ637F7J61SmYPeULwE9hOgmuPTznagUimGdlKs37jK9Qu%2BIxcdX86hSZYObbTowHCg6sFNrCwUjBAwDCGDtUDNpLC9QQbaTREMsmyIUZyxvQ1AaFW4x4YKaQ0kUULpXYTUcpmYlU%2BF%2FaSlJm42i%2B7GBDZp7nUQrYLPcxzihao0TN8t%2BDMucTHgm1wMnIOF4eCmWsfYCfwBBrewWVPAp3yxplj9HiuU1mLblfutC15QfAxiWtoiCXstnBp6Y4btQz9yl7QoHHXeH2dNguVrVLy3%2FmWDLP0%2F3i56IGypP4t9%2FOJbFghel%2FFXXxRcl35gtFa6vmH%2FJud5NcwW0v2PlFgZR0s%2FZg5Qf%2BD9OT5FPlZISknrGA5YS2qZUkjPHRoonvIUILH7lwAqMLY7WxL1IlNS1dHwWQwOCTK3r5Q6TNqTKvOuUImBVyE4jxmQaF13VBZ7T%2FNhsWMp%2FJPsCh7Z4DLCQDyRDhWBbd4YfvYdc26%2FT0Uq5aOrY5Tj%2BNHJd93xCpxJEuWJn0JcMb%2FM87%2FbCK%2Fed7DAU3uEpT1qd8aPbOvlFf5shLnc40oekDYH61JTmTuCzPc6CjKdgzZDOzTNTCG%2FJDHBjqwAWECh7qXxOVAAtgLpbPULmM0mE56xtChLsjnHaWJiC291R4YjAscytbMRw1Qluad8dqsOt4P9x%2FO6VxByMsKamWXq61E1j395HVNHGg1M7%2BKWVC4WNYLB6Xbk75tlIRWD8EInvlq58iEFo6tue4QkA7AmmGDpBAZqEsiskZNa9pUfqPE8sqPT5moiMlo7MGzpW5XCWKwPKjoT%2FAYffb9HhhKV0v%2BOe43i6PKN6URre9W&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T224953Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIAQ3PHCVTYYYGKCVN6%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1d9e601f249bc4e3339da531a04ee2eeb7d33a9e660f19abaea55a9ee3b28a9c&hash=63ba15e5774fb76c52bf271c19bdfe71301a7f88534c92e99dd33ea182e64641&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1547527107004067&tid=spdf-af249ff3-047e-4bd3-91a3-f880e93504f6&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f0c5000&rr=98a8b6ea6ed719b0&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "17267869",
+    "Title": "Ethylene vinyl alcohol copolymer erosions after use as a urethral bulking agent.",
+    "pdf_url": "https://journals.lww.com/greenjournal/fulltext/2007/02001/ethylene_vinyl_alcohol_copolymer_erosions_after.5.aspx",
+    "has_pdf": true
+  },
+  {
+    "PMID": "17206901",
+    "Title": "Reported failures of the polymer self-locking (Hem-o-lok) clip: review of data from the Food and Drug Administration.",
+    "pdf_url": "https://www.liebertpub.com/doi/epdf/10.1089/end.2006.20.1054",
+    "has_pdf": true
+  },
+  {
+    "PMID": "17149713",
+    "Title": "Presentation and management of major complications of midurethral slings: Are complications under-reported?",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/nau.20357",
+    "has_pdf": true
+  },
+  {
+    "PMID": "17073570",
+    "Title": "Breast implant surveillance reports to the U.S. Food and Drug Administration: maternal-child health problems.",
+    "pdf_url": "N/A",
+    "has_pdf": false
+  },
+  {
+    "PMID": "16769279",
+    "Title": "Emerging endoluminal therapies for gastroesophageal reflux disease: adverse events.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/271910/1-s2.0-S0002961006X08590/1-s2.0-S000296100600242X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCuyI5RFrApyGcazc5byRHmRCBDcqdDu2e0WgDp4lb5FQIhAJZ2B4COtW66VQBQlkJmJgSCGPVhjdqCkg%2Bzb50OnBcaKrwFCJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1Igz8xbKm%2Bg4fY66xj0oqkAXxgGjcpiYu2Q0nJmKAMbX%2BjaSyBkHjtmzAU47oMsEQgCXNGhe6SFHo5Hr7zrqlH3P8iUoWcmB%2F0zYslvUx0N6EeswIEPNs4m7I66Qt5Ol7TW0Cp6UI9d%2BI1AieKGUoDIWBp06IusbPro01GCXCURtufZc2X3CIO23eDbDA7MBOS%2FCsWn6E1mU6KXpH0v60bqw153nsA0MN3eveBs1TCrokw%2FVrGf4wz9hUgnRLf7ClDF8VweqcVDHCGIaTZBlKiyKSekUdYCFheqk6UzabvQOpemzQ637F7J61SmYPeULwE9hOgmuPTznagUimGdlKs37jK9Qu%2BIxcdX86hSZYObbTowHCg6sFNrCwUjBAwDCGDtUDNpLC9QQbaTREMsmyIUZyxvQ1AaFW4x4YKaQ0kUULpXYTUcpmYlU%2BF%2FaSlJm42i%2B7GBDZp7nUQrYLPcxzihao0TN8t%2BDMucTHgm1wMnIOF4eCmWsfYCfwBBrewWVPAp3yxplj9HiuU1mLblfutC15QfAxiWtoiCXstnBp6Y4btQz9yl7QoHHXeH2dNguVrVLy3%2FmWDLP0%2F3i56IGypP4t9%2FOJbFghel%2FFXXxRcl35gtFa6vmH%2FJud5NcwW0v2PlFgZR0s%2FZg5Qf%2BD9OT5FPlZISknrGA5YS2qZUkjPHRoonvIUILH7lwAqMLY7WxL1IlNS1dHwWQwOCTK3r5Q6TNqTKvOuUImBVyE4jxmQaF13VBZ7T%2FNhsWMp%2FJPsCh7Z4DLCQDyRDhWBbd4YfvYdc26%2FT0Uq5aOrY5Tj%2BNHJd93xCpxJEuWJn0JcMb%2FM87%2FbCK%2Fed7DAU3uEpT1qd8aPbOvlFf5shLnc40oekDYH61JTmTuCzPc6CjKdgzZDOzTNTCG%2FJDHBjqwAWECh7qXxOVAAtgLpbPULmM0mE56xtChLsjnHaWJiC291R4YjAscytbMRw1Qluad8dqsOt4P9x%2FO6VxByMsKamWXq61E1j395HVNHGg1M7%2BKWVC4WNYLB6Xbk75tlIRWD8EInvlq58iEFo6tue4QkA7AmmGDpBAZqEsiskZNa9pUfqPE8sqPT5moiMlo7MGzpW5XCWKwPKjoT%2FAYffb9HhhKV0v%2BOe43i6PKN6URre9W&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T225545Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYYGKCVN6%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=929d22400aa283e9d7029447fecc709b4cbfd820644e4ec1dc437ef129676f5d&hash=a914fa078d0a2335e8c7458d666a1aa4c26e178f0612bd92eb5266a4d01c20ac&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S000296100600242X&tid=spdf-20f589d5-c904-4b86-8d3c-352ae565f057&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f0c005d&rr=98a8bf860d5e19b0&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "16568214",
+    "Title": "Complications associated with transobturator sling procedures.",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00192-006-0091-0.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "16036187",
+    "Title": "Trocar-associated injuries and fatalities: an analysis of 1399 reports to the FDA.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273426/1-s2.0-S1553465005X0005X/1-s2.0-S1553465005002979/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCuyI5RFrApyGcazc5byRHmRCBDcqdDu2e0WgDp4lb5FQIhAJZ2B4COtW66VQBQlkJmJgSCGPVhjdqCkg%2Bzb50OnBcaKrwFCJf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1Igz8xbKm%2Bg4fY66xj0oqkAXxgGjcpiYu2Q0nJmKAMbX%2BjaSyBkHjtmzAU47oMsEQgCXNGhe6SFHo5Hr7zrqlH3P8iUoWcmB%2F0zYslvUx0N6EeswIEPNs4m7I66Qt5Ol7TW0Cp6UI9d%2BI1AieKGUoDIWBp06IusbPro01GCXCURtufZc2X3CIO23eDbDA7MBOS%2FCsWn6E1mU6KXpH0v60bqw153nsA0MN3eveBs1TCrokw%2FVrGf4wz9hUgnRLf7ClDF8VweqcVDHCGIaTZBlKiyKSekUdYCFheqk6UzabvQOpemzQ637F7J61SmYPeULwE9hOgmuPTznagUimGdlKs37jK9Qu%2BIxcdX86hSZYObbTowHCg6sFNrCwUjBAwDCGDtUDNpLC9QQbaTREMsmyIUZyxvQ1AaFW4x4YKaQ0kUULpXYTUcpmYlU%2BF%2FaSlJm42i%2B7GBDZp7nUQrYLPcxzihao0TN8t%2BDMucTHgm1wMnIOF4eCmWsfYCfwBBrewWVPAp3yxplj9HiuU1mLblfutC15QfAxiWtoiCXstnBp6Y4btQz9yl7QoHHXeH2dNguVrVLy3%2FmWDLP0%2F3i56IGypP4t9%2FOJbFghel%2FFXXxRcl35gtFa6vmH%2FJud5NcwW0v2PlFgZR0s%2FZg5Qf%2BD9OT5FPlZISknrGA5YS2qZUkjPHRoonvIUILH7lwAqMLY7WxL1IlNS1dHwWQwOCTK3r5Q6TNqTKvOuUImBVyE4jxmQaF13VBZ7T%2FNhsWMp%2FJPsCh7Z4DLCQDyRDhWBbd4YfvYdc26%2FT0Uq5aOrY5Tj%2BNHJd93xCpxJEuWJn0JcMb%2FM87%2FbCK%2Fed7DAU3uEpT1qd8aPbOvlFf5shLnc40oekDYH61JTmTuCzPc6CjKdgzZDOzTNTCG%2FJDHBjqwAWECh7qXxOVAAtgLpbPULmM0mE56xtChLsjnHaWJiC291R4YjAscytbMRw1Qluad8dqsOt4P9x%2FO6VxByMsKamWXq61E1j395HVNHGg1M7%2BKWVC4WNYLB6Xbk75tlIRWD8EInvlq58iEFo6tue4QkA7AmmGDpBAZqEsiskZNa9pUfqPE8sqPT5moiMlo7MGzpW5XCWKwPKjoT%2FAYffb9HhhKV0v%2BOe43i6PKN6URre9W&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T225702Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYYGKCVN6%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f8fd40bc3aac38eabe35dc6c99bf9e01da3caff485b412ecd0a8763bf1e67c2e&hash=d9a42eb7f6ff42fdcd4431752d947e85de9d96f474695d7cc7bd4faa3a341adb&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1553465005002979&tid=spdf-bb3a5307-72cf-4ed8-9f24-df0d4e4b33d8&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f0d5753&rr=98a8c167da1519b0&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15886342",
+    "Title": "Breast pump adverse events: reports to the food and drug administration.",
+    "pdf_url": "https://journals.sagepub.com/doi/reader/10.1177/0890334405275445",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15851191",
+    "Title": "Deaths associated with implantable cardioverter defibrillator failure and deactivation reported in the United States Food and Drug Administration Manufacturer and User Facility Device Experience Database.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273164/1-s2.0-S1547527100X00070/1-s2.0-S1547527104002863/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCPFNxEJLWtKTAn0n59k1qIJtDN%2Fxn4molF%2B%2FGd8685kQIgQl%2BtOskMaT89RCmGFiy3bjJy7KOAHgAxs7dEumhKwwEqvAUIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDJhksU4m96tB7nsMxCqQBbNhwTOm2fzYbQtdWdLeKLxQqMtPyigmpVac73kCTasXUbjlo8FVHeQJC0%2BTtzO2L46WRtzvZOtHIBn1ZaZKMRUrrnJUAthurYW6HccqT4YlsKj%2BHvQKuUUt1DnnKSkZv%2B%2B3tSy%2B%2Bwt0BIR6%2FCLL6DKoJs4g8seGuSKe4pPVfkBll9Ji1A1shYDxGAldqXiYeYHaoDzDjYaiQw6c7JEI0kdsSnHQ3TW28isdDdBFzqfM2n0yVibXNzYUEfZESVGr3g4RugRyDmKPqhggRggTm33k4%2FxviFrqpHYWDWFz2ZHQjpi1F2LV8MsXf7tPZ%2F3pUyq9Wa5%2FptlGaXUqrPs2o1TAtXZB1YUN7fS3DFlH4H0XhTEtgC03cdvJ4n%2BF65vKUrCSlfFEWFTWb2sVvAD8MEHejq8LT1Y246nFqWtcmQ6Ho7Q7qZm2p%2BaB0FJ%2Bh4%2B0UFxVH2%2BDaxJoQRyoW23oCZSZGBzDkLNnZxT%2FI6Vqsorn%2BbrcH1N2ui5DSUj7v7cU5fjCxf8JAnL1Emqc2nnRqRCoGjXe1iFDzTRL%2BPXg4H%2FuH5NRnIVW0KiAxAXoz%2F3qVOYGqGo1UwnsQCZMgEhAVbBmzBDl4a1P1aBwkVUa9x%2F9W1TPZFgOQFqjPaiOCpaxbS4HT%2BsvEsGvNw9BGxDg5zMmBly8eV63sVS0tfu2JXOFO8jSxbE0%2BhHh963r0ZOhCtCABfvv80gZR9piLS7PbpxaOat7PrvkpLy69KP5LeCIab%2BlFoPVzpgSvoB0rmiwqKH70R1rlIBRFCRstBTGyr7O7QKaqPDqcNtQdo3c5%2BvtGP4hAeGT2W84zdDIMALMfkkM5ORFE17t7TnxIkW8jKJ1aWSaUnjVAlQFxGbzFeoDMIj4kMcGOrEBDuEAotfPLb%2Fk34scF96pqm3JWPMUoewaqRzN6jGvzMUDitVuyZgkOMX%2BK9lWdRv%2Fnl5s%2BuA6%2BBRfw0e4zRrarR%2FPwm1QEtj0cy%2B5Nb71DuYyadJm9lg1Lp6rQ6YHnmdh4M4SR3ctEV4kJoAWwrMnaXXSRHd5QvAuZr3yjA7VWMHXhSVAaYefNu1GCLpVZ%2BPpUbjEbuVUGwcvUqjzJIM1MfJDFqgMIuWxHoPRJxPcyzPy&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251006T225828Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVS7XKS25%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fe8f1c25b02706137a775ff562a78f4b2fe25821cb7d7120622b708fb4a92adf&hash=29a4b4cb7d58bde6ce75fa5caecec2bed81f975107555038e20e2009eb9120d7&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1547527104002863&tid=spdf-dcfe1477-d64e-45c3-8daa-806520faead9&sid=a4017f8a5ab2d9417679ef459f4ddf56e21bgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15125f5b015f0d5552&rr=98a8c37edcfa19b0&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15805456",
+    "Title": "Do split-side rails present an increased risk to patient safety?",
+    "pdf_url": "https://qualitysafety.bmj.com/content/qhc/14/2/113.full.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15781767",
+    "Title": "The utility of the MAUDE database in researching cochlear implantation complications.",
+    "pdf_url": "https://watermark02.silverchair.com/oed50000.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzkwggM1BgkqhkiG9w0BBwagggMmMIIDIgIBADCCAxsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMieUsn00-8IegV2HOAgEQgIIC7E-PGeGAXsmGLD3ygy-wi8iqyGyIK7eVL7MeA5TOOGfISWIhL8tgQT5JKDSAaZTDRch1uMgXAnsuhwZnITiRkxXn9pQEvBsJjJkYm_l-Ky1EdK8xL1zbt_2NZglJOIF4iKrSnH-v6sPDzRr0mes1TOEYyZD8NmLo1WOVto--euZ6iJGB8bpUvwwukrjhJ7Sr-OaEvp5yA31DA1VrFUksW9Vh3ZVuvS1O2nl2zmhRAQ2UcljrS6WEII3ZcrL383q773pWLnM3xWdEiXOwir3wZZ75fsvatyUGlrAwOoWRvoEXRkD_8l4fwza7HK1tfmla6qYKNyzSlB-j3JgC_AbgxB1nlzoT0KfUWxVD0bFXExgTxs-q2ebwJ-NF9MXS09VuVfRwWaQ693KlomkuY7aE8l41AJINiTJ3hLiG-kl27N-_XQJ6WhsmMJqt6wGX4K3EnkKtJiG8nxmH8cZjZVq_P-8R5fhJCR2Chch9t-oN2HjVQWVk70NXDEM77fNw4UgTvSRuV4RrSYKk2-Jv2dloMJ6mvHl52THhfYcTsAuS75l4d1L92EaUOwtCdWV0nM2TOU7ZvTihMPE9oJEqBLlvRKCG47-x6kAtyRzvFEa2VPb6jFp3IOT8v6vh2nmtxm7mc-4xghh477UAoJ7Bi-z_qecwWUcnbBbO8gym8-lyH3Rqasf98K-B4sD5ba1X9czrAkYKdrQxCAXh9tTqUHGDhKpuLIGxlcFasOeINEX_04riuJcIIzTGqFUBf-ZoX02RCZr9DDC52IYyKkXcTYk477Q33x5Prn77Ue3uZxGe3ZSry2m-_xMOtQLwM1tliU67c463wpODOk97r-zftvN2eCwjG5inyco2F3rFO06mokeIB1fsIBhhdJkvGcMQnmeReyJa1K0VfWulGsw8xPAvplQdZFVNy7wFPA9Q862RvBOsLrhRMrEMJKXyEfLBy99TryPoFKM0Izdx6rO2ciP-ubMj3HFPkZWASL-HSPg",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15781766",
+    "Title": "Cochlear implant complications: utility of federal database in systematic analysis.",
+    "pdf_url": "https://watermark02.silverchair.com/ooa40037.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzkwggM1BgkqhkiG9w0BBwagggMmMIIDIgIBADCCAxsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMuMjfd1WRKF0QL6XwAgEQgIIC7PdPjpyEp4anLugqTRiEVguJ7OjEMgOWNmoEj2apiPDlqThpVZXqZaADoE_fj_h9Bq2b8fTOwXK2LOaUTbd2UEUh7Ptq80JbvD5t5NxhEqmgt3RmSAfiRSqi5bQzLUrRnKh0HGYSO7Wm5g7u3X8nDjD23DI2_JEsQPViVLKHXoMPHnYXXZzXq1NRZVNVKU0xorFulwRnmazgg701Uj2NC3AAtBZ230KV6UIqJlx5QXHsOw1_ntScKTZ51W7poyapFitt7jQ9CqUDt7bdzJ83Eyj_A_S0bE9Zt0y3Zdcg_RAhxaTbyEFxTC6fl-3abK9C0a30jea2RWjWlLSmv_DFXdVEtP8LOTBfotqqDS_YyBPB2u3DtbeYHxMLKh75lIGQNJBkt603XzcD7jqIjZC53ifWQH_t7cLMtDZdR5d_5GSMtpPeB7xDxYp6MwhhoGOyl6H5kQI-KVoOYo02pb2elgDam82KWXHNYiEoYmiXDZmKlhe2KLt5hrIMffiVHVIWefomE9ODJWgeA8tGqG21UW34XX37fEcZ-7M_6ov4toac8TZXSj9xepvXqZuEyNtEaE4negPGYNSGNNFiq6jhk-64WLCdlCCZm8F7wLZkAzGcHTtcxQwRhT_sZaD60KWPjw3Q92aamY4CUuScTS2Ib0TPsH9pbLiRRsk8PwWkd-UycEK-kybpRQ-Ddm7SqUdITnrSFcaHPDVPJDXXpLUD9n07-xOXd4wcnOX6BZT1J7GspxbGiSfJCnYpGXKBZ4ndWDBUO_x7o_yFgwA2mhvI8vBc4roUoqHR41i8mRAkKAjWWlM2c566GkR1WXpHi0JdZ-0gJPb62Hivgj_nw1X-Ghs42wCOEbO0ty5Jx0b0TVzQBAty5EC6S40q9ZEgCEzlTpcxu7TWE0bd4MCS-Q-9dfoALNnNQbFYJLnWeMm_2eutHIGntZVCG9en83X-LvJPYY_HORwKdjHrEzogNagCUHtVX0hjf3E96TAzcK4",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15525737",
+    "Title": "Vertebral augmentation and the limits of interpreting complications reported in the food and drug administration manufacturer and user facility device experience database.",
+    "pdf_url": "https://doi.org/10.1097/01.rvi.0000136028.86147.a4",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15525736",
+    "Title": "A review of complications associated with vertebroplasty and kyphoplasty as reported to the Food and Drug Administration medical device related web site.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273602/1-s2.0-S1051044307X60238/1-s2.0-S1051044307604680/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAEaCXVzLWVhc3QtMSJIMEYCIQCid%2BEpeGwVClR5hKb7cpn3SHg2SvRfzplWzYU%2BEeJecAIhALkc8B5PxhKCPuvdB5bSGDSc6SoDYcOeP3HqfKqdzngVKrwFCJr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgytVscSVyg8s7oH72oqkAUC%2BI3a90WVVYJSjAFUmM6I%2BiX0jWctuAweHSOsUZMo2bm%2FMUqINKWrAN8Q%2BlsfI33ve2MQyNXUMpW5yO%2BXJXBmfFnjj772lDxwQxBMtE1jvjip6YLy5O7F1KX4HdmS9NahGCuGS34dLJznok1fRNZGfdX4BTH6l9By8r7bEsUbNzFybF%2BzMc%2Bnj0KSKBhAggj42CSocnpdKg4ozDwa2E%2BAY%2FUC7cyEciPP1CangMEXYdqzBmIdbRG%2Bdqu643c0Dnt3pZSgn7OwQphi69pRw13OG97YuVj%2FXEtAG3z69n1zo4y7r0Z%2BqQJTkZbULb121H%2F7QoRyjlsUTOFyeqfmFLfb3d6wQPID9gMwTrGW%2FYcA%2FmLl4XQUQq6ZSCW9WZexBCZ1ShrMUAA8EafyNLsc4isXm6Y%2FPvMwunn2R4DxtFVes6NKC%2Fokm%2FY7Y3nXFaQs9A8x0eXmn8EGKxK6EW7YuLrO7ZL1P%2FDw7ULniEI6p8etFyjxPRIqvwZ%2B246NZq597d4nfVE5q9MeaIyTW7esNmQIOq8onSpMYp7oDifHg4x2WA7%2Bt7kve61rjuImP6C78JswOKfhp3FgONhXDe00kNXyii8kbPv3j0cX%2FwnQ9c%2BJxi1Pa%2FGh%2F9T%2BV%2FzvUbe1fJc%2FBOTHD%2BIK3nOxPvbKdUT93zASLhAPfJ9YUPFqcsvsfnWIaqXiYmLXwsr8gDwWjphSxTv%2B%2FBf%2F9SNY5ffi8eU%2BpgLpN3zgPdyw%2Fq34mhZlH2LtAFOO7eoHxj9C9AGgD%2FC7DLMHqJju7d5aC%2BIp1CAqJUJq%2FBl2sZvIx0PpfDq2SX7bMx5GdZs8lBBbJIajyeEKDKzb5bv4eiQVCzQCFtCejZJLh2zI2MPfzdQUyo3CvTDVu5HHBjqwAUWUzPI1r5Z%2BM5V7MlRxgXx7YjfK7mYWQs%2FzXY4YBghk0OPdCjgGtdRfL5IsS1X7%2B5dlfjRkyjkEe%2Br1ciX72d4vf04Et%2BSKVBNxDuXY2klntP%2BiaFc2tRPvSlIuOQbwc5m5qSuh8k9XZhSvVcam6cTg8nASmX0p15aY%2Be6tE1ee9FjCsHYwphF7TNT2KQKnQo88Iufjy715W0wdHbJ9ptscB8muINvJltcr2xkQTCSz&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251007T011457Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYV57PCGD%2F20251007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ae718bafd276506cec32804f7002ffe47d708f3233634fd7dd62389d401d97ce&hash=f1c2ea183548ccf04f2cf5c0ab9b6a67a86e64319a89f9cfd033cbebd80c05e0&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1051044307604680&tid=spdf-23dd0aa2-8eb0-4c7e-980b-6001acc2713c&sid=99a0c70a37b4c94452-a767-93124fc72340gxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi5vaGlvLXN0YXRlLmVkdQ%3D%3D&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi5vaGlvLXN0YXRlLmVkdQ%3D%3D&ua=15125f5b015e560453&rr=98a98b6c9b842308&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15325606",
+    "Title": "Surgical stapler-associated fatalities and adverse events reported to the Food and Drug Administration.",
+    "pdf_url": "https://journals.lww.com/journalacs/abstract/2004/09000/surgical_stapler_associated_fatalities_and_adverse.4.aspx",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15121577",
+    "Title": "Complications associated with global endometrial ablation: the utility of the MAUDE database.",
+    "pdf_url": "https://journals.lww.com/greenjournal/citation/2004/05000/complications_associated_with_global_endometrial.34.aspx",
+    "has_pdf": true
+  },
+  {
+    "PMID": "15121575",
+    "Title": "Complications associated with global endometrial ablation: the utility of the MAUDE database.",
+    "pdf_url": "https://journals.lww.com/greenjournal/citation/2004/05000/complications_associated_with_global_endometrial.32.aspx",
+    "has_pdf": true
+  },
+  {
+    "PMID": "14984183",
+    "Title": "Endovascular stents: market vigilance and risk factors.",
+    "pdf_url": "https://journals.sagepub.com/doi/10.1177/039139880402700110",
+    "has_pdf": true
+  },
+  {
+    "PMID": "14662215",
+    "Title": "Complications associated with global endometrial ablation: the utility of the MAUDE database.",
+    "pdf_url": "https://journals-ohiolink-edu.proxy.lib.ohio-state.edu/acprod/odb_ejc/r/ejc/search/99?p99_entity_id=17078694&p99_entity_type=MAIN_FILE&cs=34a7mb5ODMcfCk6HTYVq6y9pOL_zOr_IwpPt1fxnmKn-6aQ1h9oIUNLzIT6oZG380OZprfTeQD5jQMiTEdE3qQQ",
+    "has_pdf": true
+  },
+  {
+    "PMID": "12761003",
+    "Title": "A retained Racz catheter fragment after epidural neurolysis: implications during magnetic resonance imaging.",
+    "pdf_url": "https://oce-ovid-com.proxy.lib.ohio-state.edu/article/00000539-200306000-00034/HTML",
+    "has_pdf": true
+  },
+  {
+    "PMID": "12701040",
+    "Title": "Intra-articular hyaluronans: a review of product-specific safety profiles.",
+    "pdf_url": "https://journals-ohiolink-edu.proxy.lib.ohio-state.edu/acprod/odb_ejc/r/ejc/search/99?p99_entity_id=28151853&p99_entity_type=MAIN_FILE&cs=3ygVM7giqGMwSXMcvX34z0ow02PpoK5WPkKsT1Ak9ySGrW1hSTmVV9p99qxsIbdU9qPStj9xQ2lm1Evw9QaoY4w",
+    "has_pdf": true
+  },
+  {
+    "PMID": "12039109",
+    "Title": "Complications associated with optical-access laparoscopic trocars.",
+    "pdf_url": "https://journals-ohiolink-edu.proxy.lib.ohio-state.edu/acprod/odb_ejc/r/ejc/search/99?p99_entity_id=12556168&p99_entity_type=MAIN_FILE&cs=30MBcOB9DesFdlILN2r5M-gg-9l2xvoVlmDED3dTw43hT_IGZ5Zlbdkl2orkYiZop8aXya3O9irZra0fLyWP4pQ",
+    "has_pdf": true
+  },
+  {
+    "PMID": "11475818",
+    "Title": "Unexpected ICD pulse generator failure due to electronic circuit damage caused by electrical overstress.",
+    "pdf_url": "https://journals-ohiolink-edu.proxy.lib.ohio-state.edu/acprod/odb_ejc/r/ejc/search/99?p99_entity_id=269251900&p99_entity_type=MAIN_FILE&cs=3gK3NFeQFriPsWO1XjED78xUQpEmWhOuoukuHU_0UzInt6KGDG2cHccSvev-_VR5jLN47DjgDIhYsxvKAkViGYQ",
+    "has_pdf": true
+  },
+  {
+    "PMID": "11243287",
+    "Title": "Impact of FDA advisory on reported vacuum-assisted delivery and morbidity.",
+    "pdf_url": "https://journals-ohiolink-edu.proxy.lib.ohio-state.edu/acprod/odb_ejc/r/ejc/search/99?p99_entity_id=28057455&p99_entity_type=MAIN_FILE&cs=3Ddj4hyEZ_7_lqPBKh2Sm7lhwXelGRtuA0VHky_13wzPx3oW7Vh7HDWnuzNDUbq4znuXNk016L8w3X8zwL2tTiw",
+    "has_pdf": true
+  },
+  {
+    "PMID": "10642409",
+    "Title": "Pulmonary artery rupture: serious complication associated with pulmonary artery catheters.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/272343/1-s2.0-S1075421099X00022/1-s2.0-S1075421000700162/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAIaCXVzLWVhc3QtMSJHMEUCIDzGa2E%2FFIIcyWPOtAN%2BD%2FqqUd7u6FwFgeh1k8RrEKyXAiEAsH926RF9KLABrlJLPhP28xlQQ8Ha9w2VYJPRwFEh0jEqvAUIm%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDN9jOiQNtSkTMCJXGiqQBXrVTg8ROtwY%2BJJ3HCbFcENMWiPJEdnHH0ilUwHLKdLRGnb%2BzTBaFor4CUeYKRe%2Fda6IvB2SS0anXc36%2F%2FzDrM%2FjV6hHvkpu4uZfpLs5fts6bGzmhHAxWGQAM3JBK7K4DmEGsvYlwD9VoN1Q9s1CI87dHBYsIAbu5TsWvINbYL9iavs1YL5lgfJG86bE%2BzjSPr42HOdZUj5OunwlA6XHMNyVQp%2BevyW%2B%2F5DF79pRNCLPwNzlBu6KZPorQ7LS6F5alf2KIZQLFyaOGycSd4TEFVpz2bi3WcETyfdQiNEE4GTvNvTp8jr0rOt9oCd3FDGQXUYTi9q8eZ%2FG8Mp1QznnSZNIfRI0ZP%2FiNhJlsH7zePyoP3DIPVNWRlbBySjum3ARtPfe33a7tNs3lhnLLVaIZCQCLRQVrTM1ZBg60TXwEUF7p%2BAmhz7oW7waBU41mjWyYzbE9TwoWjXtuDiV38oYKCF00vff2%2FqC3Uv6izRJvb51KpXPCRZLXtCztNKKjFiBRSCT6f1ye8uH1oaRFGthj5X5xGA%2Fgpnu8FHqi%2Bj4qPSFgjbo5cabhoFoxuxNsIHRBo%2F%2F1XwV8MhfOnGeOLLHaI2NIy%2FgHAe6iweIbN18VlpcXVNHegJIj8JP8umI6w6T2WX7ik7vm2kLq2QCZDW0IEvIeFwkOAg8ia4LKZ%2F8EPu%2FpaQ9ma2p2AnzSoZDJKuVR9bW6vcCu8EGobnCPNgY%2F%2BpaJkN2l5wJiFHgbyPDTdvc7u53UBMuqk0QZmhrXFoLZLBzz9FJxYBANwcacWEIMNSY3UtZeRBIfxSs4ZE7P603sM1R2e7TtYuRl35sD5d%2B7qOFONfMZvwXkXGzjH4MA5ODCs3UbZgZ%2F2w702lH4%2B6dMIvZkccGOrEBExwhJBJK%2FFRutKvl0y3w4xczVj30rc8USAq5YySSkFMrWzjuaGl2kPjtUqs6Wq%2Feae3KzWSfC%2BndFO948hA%2F9yaDpb252NGOg5wisSeBTNlWd6BMU3g5LSMKvqMNXW4tucLpH%2Fw8Xfnr%2FN30MaQiSI7rQJO0rUFewPs39WvO7qJbs6v%2FiVVy8gBTtsk1Yq%2BVSKnmX7Lno5tQkhXWyRO7UqMIIg6HmGWD9IqTdZP2S4Ac&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251007T020806Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQRH5KWRJ%2F20251007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4f7ae003bb5bc0f912221341575f9c15b3fc9c32e968eb0249c7678a7b75313a&hash=6df075d55c2e861e3ec0d05dca2655c225fe82ca02b2819af82b541d213cb315&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1075421000700162&tid=spdf-5466eb17-88bd-4d66-b651-bf82ab16cdda&sid=99a0c70a37b4c94452-a767-93124fc72340gxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi5vaGlvLXN0YXRlLmVkdQ%3D%3D&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi5vaGlvLXN0YXRlLmVkdQ%3D%3D&ua=15125f5b015e0a5f51&rr=98a9d945ad691709&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "34033344",
+    "Title": "Use and Application Of MAUDE In Patient Safety",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/books/NBK570582/",
+    "has_pdf": false
+  },
+  {
+    "PMID": "21249841",
+    "Title": "Evaluating and Predicting Patient Safety for Medical Devices with\nIntegral Information Technology",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/books/NBK20517/pdf/Bookshelf_NBK20517.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "21249804",
+    "Title": "Making Information Technology a Team Player in Safety: The Case\nof Infusion Devices",
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/books/NBK20467/pdf/Bookshelf_NBK20467.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40350775",
+    "Title": "Complications Leading to Death in Patients Supported by the Impella 5.5: Analysis From the FDA MAUDE Database.",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12231167/pdf/CCD-106-550.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40339983",
+    "Title": "Food and Drug Administration Database Secondary Analysis: Difference in Operative Hysteroscopy Device Adverse Event Reporting.",
+    "pdf_url": "https://www.jmig.org/action/showPdf?pii=S1553-4650%2825%2900137-2",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40380498",
+    "Title": "Developing a Dashboard to Facilitate Exploration of MAUDE Studies.",
+    "pdf_url": "https://ebooks.iospress.nl/doi/10.3233/SHTI250388",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40380434",
+    "Title": "Leveraging Data Pipeline and LLM to Advance Patient Safety Event Studies.",
+    "pdf_url": "https://ebooks.iospress.nl/doi/10.3233/SHTI250323",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40469887",
+    "Title": "Postmarket Safety Surveillance of FDA-Cleared Prescription Digital Therapeutics Using the Manufacturer and User Facility Device Experience (MAUDE) Database: A Pharmacovigilance Study.",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12136109/pdf/cureus-0017-00000085343.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40457428",
+    "Title": "Prevalence and root causes of operating room fires in the United States 2014-2024.",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12131830/pdf/13037_2025_Article_441.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40450160",
+    "Title": "A general framework for governing marketed AI/ML medical devices.",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12126487/pdf/41746_2025_Article_1717.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40382262",
+    "Title": "Editorial: Keeping them honest MAUDE! But can we do better?",
+    "pdf_url": "https://pdf.sciencedirectassets.com/273434/AIP/1-s2.0-S1553838925002453/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAEaCXVzLWVhc3QtMSJHMEUCIFbtDAeCya5hs16lAIXwns%2BaEZBMoLk92WiOvYCXBhh9AiEAuTdCffJZkQv0s6Z%2BfRYq48NSDkCK5q0xXEu1%2F7h%2F1uMqvAUImv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDBscUixOT1I8%2FoW32SqQBRmJw%2FHYKE60Uoc50LQi55CRfQuVOu%2BjB6lBLEOFQVtZjM7aSLIaE1KL1ZTRd%2B%2FB%2Bo4iYkw1pEHV3JrRVI7E%2BhObfhPr41lf8KYgNh0QhifTB0vVGAOuePP7HS0r5URf43lkeLwmu1sL2tqgSFCOgO6WeU1SpRXBjyGVPvpY1X5Pq02DpT%2F3b%2FK2w7Vu5r7VV2qQbKP2V5pqfCG20e1fltw0niQxBjp41lxpgWh1gqA%2BJnXGG4b3kjlCBzKzhQrPVElDXTf0crYDWYp%2F%2FLWya%2BXEUfUopupvLjC5lQH4Isv5qhjPGwyQNZhEDYHJZ7hpxI57Wv2DfusRWMckY8rIplnjybjwwgBdZHNsjSlWFcZqrVqfDgNfwaC%2FOdWIP6ARAeh6QMB2Vn%2B6Hwanp8cpPnnwMyuTV91%2FejndpF7qjBjOWzjk0PkSLetHTGzcv3mnumOdH8QcQTL259K8hYPBhOI7w77iewz6BDrUxRLyNJ9SjqYgyi4j4EzZfDn%2BT1nwOm7sSwv9SHBYV2xVtcUOemkxaZupcm0foNr5TppJ8RCBcAAEX7%2F%2F0DxsL2%2FTexzrKYQMQXeXtDZ0LiruzFPaBmSalOzgSqN2q3WVoxVUf9mQfOTprTLR2jJ2OJssBHMOFqu7tWs0zSULCgWQSzSs3LlaIPDBQ2%2BVCQpONGifKD6yoaWtY4yEnCH9Z9VGujTxN8yWVZ4sA7Qk4%2BoFud5DQsDUjVplJr1tqEG36AUpu%2FUdpW7FbzfGSkAAf9WFhDRjnM8MVCXsi5va13tHgzZsSt4uOsjCjTgoYqcg8HWfIEKBLgVtuVqbYfFh9gPCxcScDWnDDReQYMoRFZwg3XO7PLgCBTHpWY7ofGT9HGfWOlgoMJ3JkccGOrEBTUHNNfZgt7DbvC%2Bthgqpq4BjGifgtIWQ8f9Q9mqJS3TJbQXSWWhK3mkYoXE1KmNQ9AKDBxuOHI5SzJkspds%2BubkvmpX%2B%2BRKgwDFCqWsLxOhgsAL3pZnqDstVJTsZBTbME4XyFHiXYUuevDkRN1zmTD%2FPVd5I4EyzILalmRxNijnKjBxiMubsEvik%2BiZ7vv3kN1s4jNGEx2m12Rb9gFNX5cBO8QfE9QtBUMwzLV2Kc5P0&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251007T015951Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4UIIAHNM%2F20251007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=742c3b92ab805adb48dda0483b284f7ff5893c1fefdfd761c00eee39268ed8fd&hash=67a3184f7c1b905ebcc07191979302a0e8b9e0cd128d91b21972e9848635e60b&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1553838925002453&tid=spdf-c390a360-9cc1-47e1-81e1-f65505fe8984&sid=99a0c70a37b4c94452-a767-93124fc72340gxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi5vaGlvLXN0YXRlLmVkdQ%3D%3D&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi5vaGlvLXN0YXRlLmVkdQ%3D%3D&ua=15125f5b015e0d0256&rr=98a9cd351f39d319&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40529013",
+    "Title": "Adjustable continence therapy for men (ProACTTM): systematic review and compendium of adverse events.",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12170195/pdf/tau-14-05-1476.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40511388",
+    "Title": "Hypoglossal Nerve Stimulation Respiratory Lead Migration: MAUDE Database Review and Case Report.",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12160339/pdf/OTO2-9-e70141.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40500020",
+    "Title": "Adverse Events Reported for the Evoque Transcatheter Tricuspid Valve Replacement: A MAUDE Database Analysis.",
+    "pdf_url": "https://pdf.sciencedirectassets.com/276932/1-s2.0-S1936879824X00138/1-s2.0-S1936879825009306/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAEaCXVzLWVhc3QtMSJHMEUCIFbtDAeCya5hs16lAIXwns%2BaEZBMoLk92WiOvYCXBhh9AiEAuTdCffJZkQv0s6Z%2BfRYq48NSDkCK5q0xXEu1%2F7h%2F1uMqvAUImv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDBscUixOT1I8%2FoW32SqQBRmJw%2FHYKE60Uoc50LQi55CRfQuVOu%2BjB6lBLEOFQVtZjM7aSLIaE1KL1ZTRd%2B%2FB%2Bo4iYkw1pEHV3JrRVI7E%2BhObfhPr41lf8KYgNh0QhifTB0vVGAOuePP7HS0r5URf43lkeLwmu1sL2tqgSFCOgO6WeU1SpRXBjyGVPvpY1X5Pq02DpT%2F3b%2FK2w7Vu5r7VV2qQbKP2V5pqfCG20e1fltw0niQxBjp41lxpgWh1gqA%2BJnXGG4b3kjlCBzKzhQrPVElDXTf0crYDWYp%2F%2FLWya%2BXEUfUopupvLjC5lQH4Isv5qhjPGwyQNZhEDYHJZ7hpxI57Wv2DfusRWMckY8rIplnjybjwwgBdZHNsjSlWFcZqrVqfDgNfwaC%2FOdWIP6ARAeh6QMB2Vn%2B6Hwanp8cpPnnwMyuTV91%2FejndpF7qjBjOWzjk0PkSLetHTGzcv3mnumOdH8QcQTL259K8hYPBhOI7w77iewz6BDrUxRLyNJ9SjqYgyi4j4EzZfDn%2BT1nwOm7sSwv9SHBYV2xVtcUOemkxaZupcm0foNr5TppJ8RCBcAAEX7%2F%2F0DxsL2%2FTexzrKYQMQXeXtDZ0LiruzFPaBmSalOzgSqN2q3WVoxVUf9mQfOTprTLR2jJ2OJssBHMOFqu7tWs0zSULCgWQSzSs3LlaIPDBQ2%2BVCQpONGifKD6yoaWtY4yEnCH9Z9VGujTxN8yWVZ4sA7Qk4%2BoFud5DQsDUjVplJr1tqEG36AUpu%2FUdpW7FbzfGSkAAf9WFhDRjnM8MVCXsi5va13tHgzZsSt4uOsjCjTgoYqcg8HWfIEKBLgVtuVqbYfFh9gPCxcScDWnDDReQYMoRFZwg3XO7PLgCBTHpWY7ofGT9HGfWOlgoMJ3JkccGOrEBTUHNNfZgt7DbvC%2Bthgqpq4BjGifgtIWQ8f9Q9mqJS3TJbQXSWWhK3mkYoXE1KmNQ9AKDBxuOHI5SzJkspds%2BubkvmpX%2B%2BRKgwDFCqWsLxOhgsAL3pZnqDstVJTsZBTbME4XyFHiXYUuevDkRN1zmTD%2FPVd5I4EyzILalmRxNijnKjBxiMubsEvik%2BiZ7vv3kN1s4jNGEx2m12Rb9gFNX5cBO8QfE9QtBUMwzLV2Kc5P0&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251007T015758Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4UIIAHNM%2F20251007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b015d69aa82361e8a8d12214ad0864e413fcf61d1c82ca9016547fe62ca88925&hash=d58ef8d05253f46609431edc904657883b7acedec8dc91f5eb07d212edf54cf4&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1936879825009306&tid=spdf-c9977d9a-fa67-40fe-8506-15ad08cad38b&sid=99a0c70a37b4c94452-a767-93124fc72340gxrqa&type=client&tsoh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi5vaGlvLXN0YXRlLmVkdQ%3D%3D&rh=d3d3LXNjaWVuY2VkaXJlY3QtY29tLnByb3h5LmxpYi5vaGlvLXN0YXRlLmVkdQ%3D%3D&ua=15125f5b015e0d0752&rr=98a9ca700c74f4e0&cc=us",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40474858",
+    "Title": "Real-World Safety Profile of the Extravascular (EV) Implantable Defibrillator System: Insights From the MAUDE Database.",
+    "pdf_url": "https://www-ahajournals-org.proxy.lib.ohio-state.edu/doi/epub/10.1161/CIRCEP.125.013831",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40588888",
+    "Title": "Unveiling Endoscopic Procedures in MAUDE: An ETL-LLM Method.",
+    "pdf_url": "https://ebooks.iospress.nl/doi/10.3233/SHTI250680",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40654302",
+    "Title": "Analysis of Lacrimal Stents and Balloon Catheters Complications: A 10-Year Review of the FDA MAUDE Database.",
+    "pdf_url": "https://oce-ovid-com.proxy.lib.ohio-state.edu/article/00002341-990000000-00632/HTML",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40628307",
+    "Title": "The Hidden Cost of Robotic Spine Surgery: Real-World Adverse Events Cause 58-Minute Delays and Undermine Economic Viability.",
+    "pdf_url": "https://www-clinicalkey-com.proxy.lib.ohio-state.edu/service/content/pdf/watermarked/1-s2.0-S1529943025003328.pdf?locale=en_US&searchIndex=",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40761863",
+    "Title": "Adverse events associated with Implantable Collamer Lens: insights from the FDA MAUDE database.",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12319018/pdf/fmed-12-1613060.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40728664",
+    "Title": "Investigating complications of extreme lateral interbody fusion (XLIF) in the food and drug administration manufacturer and user facility device experience database.",
+    "pdf_url": "https://link-springer-com.proxy.lib.ohio-state.edu/content/pdf/10.1007/s00586-025-09174-4.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40707756",
+    "Title": "Analysis of Reported Adverse Events Associated with Sphincterotomes: An FDA Manufacturer and User Facility Device Experience (MAUDE) Database Study.",
+    "pdf_url": "https://link-springer-com.proxy.lib.ohio-state.edu/content/pdf/10.1007/s10620-025-09224-3.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40681342",
+    "Title": "Rates of Osteolysis for Commercially Available Cervical Disc Arthroplasty Devices in the United States: A Manufacturer and User Facility Device Experience Database Analysis.",
+    "pdf_url": "https://www.ijssurgery.com/content/ijss/early/2025/07/18/8772.full.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40673630",
+    "Title": "Pediatric Complications of Automated Tympanostomy Tube Systems: MAUDE Analysis and Systematic Review.",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/lary.32434",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40778487",
+    "Title": "Real-World Safety and Complications of the Boston Scientific AGENT Drug-Coated Balloon From the FDA MAUDE Database.",
+    "pdf_url": "https://onlinelibrary-wiley-com.proxy.lib.ohio-state.edu/doi/full/10.1002/ccd.70082",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40775892",
+    "Title": "AutoQUEST: A Chain-of-Thought Pipeline for Automated Question Generation and Validation in MAUDE Research.",
+    "pdf_url": "https://ebooks.iospress.nl/doi/10.3233/SHTI250874",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40813907",
+    "Title": "Blurred vision, clear concern: linking poor visualization with adverse events in minimally invasive surgery.",
+    "pdf_url": "https://link-springer-com.proxy.lib.ohio-state.edu/content/pdf/10.1007/s00464-025-12052-1.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40865805",
+    "Title": "Letter: The Hidden Cost of Robotic Spine Surgery: Real-World Adverse Events Cause 58-Minute Delays and Undermine Economic Viability.",
+    "pdf_url": "https://www-clinicalkey-com.proxy.lib.ohio-state.edu/#!/content/journal/1-s2.0-S1529943025007338",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40848167",
+    "Title": "Real-World Safety Profile of EVO and EVO+ Implantable Collamer Lenses: A Retrospective Study Based on FDA Surveillance Data.",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s40123-025-01222-y.pdf",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40891482",
+    "Title": "Trends and incidence of postoperative reported events associated with penile prosthesis. An analysis of the food and drug administration's manufacturer and user facility device experience database.",
+    "pdf_url": "https://www-clinicalkey-com.proxy.lib.ohio-state.edu/service/content/pdf/watermarked/1-s2.0-S0302283823012988.pdf?locale=en_US&searchIndex=",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40885264",
+    "Title": "Letter to the Editor: The Hidden Cost of Robotic Spine Surgery: Real-World Adverse Events Cause 58-Minute Delays and Undermine Economic Viability.",
+    "pdf_url": "https://www-clinicalkey-com.proxy.lib.ohio-state.edu/service/content/pdf/watermarked/1-s2.0-S1529943025007296.pdf?locale=en_US&searchIndex=",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40917172",
+    "Title": "Safety of a pacemaker mode intended to protect patients.",
+    "pdf_url": "https://www.heartrhythmopen.com/action/showPdf?pii=S2666-5018%2825%2900231-4",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40912661",
+    "Title": "An Analysis of Adverse Events Associated with Mandibular Repositioning Appliances (MRA)- Study of the FDA Manufacturer and User Facility Device Experience (MAUDE) Database.",
+    "pdf_url": "https://www-clinicalkey-com.proxy.lib.ohio-state.edu/service/content/pdf/watermarked/1-s2.0-S0954611125004056.pdf?locale=en_US&searchIndex=",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40905304",
+    "Title": "Expandable, But at What Cost? Failure Patterns in Corpectomy Cages from 373 Real-World Adverse Events.",
+    "pdf_url": "https://oce-ovid-com.proxy.lib.ohio-state.edu/article/00007632-990000000-01121/HTML",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40948456",
+    "Title": "Analysis of Adverse Events in Medical Devices for Diabetes.",
+    "pdf_url": "https://journals.sagepub.com/doi/10.1177/19322968251368860",
+    "has_pdf": true
+  },
+  {
+    "PMID": "40937063",
+    "Title": "Device failures and patient-related adverse events with small bowel capsule endoscopy: a 20-year MAUDE database analysis.",
+    "pdf_url": "http://www.annalsgastro.gr/files/journals/1/earlyview/2025/ev-08-2025-05-AG_7727-0988.pdf",
+    "has_pdf": true
+  }
+]

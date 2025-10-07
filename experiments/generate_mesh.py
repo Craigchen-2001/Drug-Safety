@@ -5,7 +5,6 @@ from openai import AzureOpenAI # type: ignore
 from PyPDF2 import PdfReader # type: ignore
 from tqdm import tqdm # type: ignore
 
-
 def load_prompt(path):
     with open(path, "r") as f:
         return f.read()

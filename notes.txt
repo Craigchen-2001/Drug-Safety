@@ -57,8 +57,8 @@ Total papers without pdf_url: 623
 
 Summary (IDs per file):
 # pdf_task_no_url_part1.json: 208 IDs
-Total has_pdf = false: 18
-PMIDs:can not find pdf 
+Total has_pdf = false: 10
+PMIDs with has_pdf = false:
 40105162
 39939127
 39939041
@@ -69,18 +69,66 @@ PMIDs:can not find pdf
 37635415
 37553285
 37023704
-35734685
-35727630
-35718067
-35698284
-35653558
-35579193
-35536679
-35523236
 
 # pdf_task_no_url_part2.json: 208 IDs
+Total has_pdf = false: 6
+PMIDs with has_pdf = false:
+34862784
+34842892
+34342518
+32942309
+32910629
+30617505
 
-# pdf_task_no_url_part3.json: 207 IDs
 
+# pdf_task_no_url_part4.json:
+Total unique PMIDs: 104
+Total has_pdf = false: 4
+PMIDs with has_pdf = false:
+29792661
+25673309
+24635137
+23761875
 
-Total IDs across parts: 623
+# pdf_task_no_url_part5.json: 
+Total unique PMIDs: 103
+Total has_pdf = false: 4
+PMIDs with has_pdf = false:
+30172248
+18258157
+17073570
+34033344
+
+Total IDs across parts: 623 
+Total has_pdf = false: 24
+PMIDs with has_pdf = false:
+40105162
+39939127
+39939041
+39808456
+39756382
+38520298
+38224297
+37635415
+37553285
+37023704
+34862784
+34842892
+34342518
+32942309
+32910629
+30617505
+29792661
+25673309
+24635137
+23761875
+30172248
+18258157
+17073570
+34033344
+
+#Total has_pdf = false: 24
+No Abstract: 2
+總共有24篇沒有pdf 其中又有兩篇沒有abstract
+PMID: 39939041 | Title: Device Approval in the United States: The FDA Is on Target.
+PMID: 32910629 | Title: Questioning the Use of the Manufacturer and User Facility Device Experience Database (MAUDE) to Compare Implant Performance.

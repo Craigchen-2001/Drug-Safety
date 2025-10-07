@@ -1,14 +1,15 @@
 import json
 
-path = "/Users/chenweichi/Desktop/Drug_Safety_Project/experiments/pdf_tasks_no_url/pdf_task_no_url_part5.json"
+path = "/Users/chenweichi/Desktop/Drug_Safety_Project/experiments/with_pdf_640_merged.json"
 
 with open(path, "r") as f:
     data = json.load(f)
 
-false_items = [d for d in data if not d.get("has_pdf", False)]
-pmids = [d.get("PMID") for d in false_items]
+no_pdf = [d for d in data if not d.get("has_pdf", False)]
+no_abstract = [d for d in no_pdf if d.get("Abstract") in [None, "", "N/A"]]
 
-print(f"Total has_pdf = false: {len(false_items)}")
-print("PMIDs:")
-for p in pmids:
-    print(p)
+print(f"Total has_pdf = false: {len(no_pdf)}")
+print(f"No Abstract: {len(no_abstract)}\n")
+
+for d in no_abstract:
+    print(f"PMID: {d.get('PMID')} | Title: {d.get('Title')}")

@@ -488,7 +488,6 @@
       "analytical performance of glucose meters"
     ],
     "FilteredOriginalMeshTerms": [
-      "Blood Glucose",
       "Blood Glucose Self-Monitoring",
       "Calibration",
       "Equipment Design",
@@ -497,6 +496,7 @@
       "Sensitivity and Specificity"
     ],
     "RemovedOriginalMeshTerms": [
+      "Blood Glucose",
       "Clinical Laboratory Techniques",
       "Diabetes Mellitus, Type 1",
       "Diabetes Mellitus, Type 2",
@@ -1192,12 +1192,12 @@
     "FilteredOriginalMeshTerms": [
       "Insulin",
       "Blood Glucose Self-Monitoring",
-      "Blood Glucose",
       "Diabetes Mellitus"
     ],
     "RemovedOriginalMeshTerms": [
       "Humans",
       "United States",
+      "Blood Glucose",
       "Technology"
     ]
   },

@@ -132,3 +132,39 @@ No Abstract: 2
 總共有24篇沒有pdf 其中又有兩篇沒有abstract
 PMID: 39939041 | Title: Device Approval in the United States: The FDA Is on Target.
 PMID: 32910629 | Title: Questioning the Use of the Manufacturer and User Facility Device Experience Database (MAUDE) to Compare Implant Performance.
+
+Total entries: 640 /Users/chenweichi/Desktop/Drug_Safety_Project/experiments/with_pdf_640_merged.json 
+1️⃣ has_pdf = True but no FullText result: 27
+2️⃣ has Abstract result but missing FullText result: 28
+3️⃣ both Abstract and FullText missing: 12
+4️⃣ both Abstract/FullText missing AND no original MeshTerms: 2
+====================
+
+PMIDs with has_pdf=True but no FullText result:
+37983110
+37956776
+37746939
+37668414
+37622490
+34160872
+33625154
+33528303
+32282600
+31324419
+31183792
+30962083
+30801468
+28533700
+27769853
+27499060
+24786813
+24439579
+23796092
+22996104
+21944871
+19464444
+18377477
+17267869
+14662215
+11243287
+10642409

@@ -1,0 +1,76 @@
+[
+  {
+    "PMID": "28249868",
+    "Title": "Cortrak-Assisted Feeding Tube Insertion: A Comprehensive Review of Adverse Events in the MAUDE Database.",
+    "Abstract": "BACKGROUND: Electromagnetic devices to guide feeding tube placement such as the CORTRAK Enteral Access System have shown promising results; however, researchers in recent studies have expressed concern that a higher level of user expertise may be required for safe use. OBJECTIVES: To review adverse events related to CORTRAK-assisted feeding tube insertion reported in the Food and Drug Administration's Manufacturer and User Facility Device Experience (MAUDE) database. METHODS: A retrospective, secondary analysis of the MAUDE database was performed to evaluate adverse events (ie, injury or death of patient) related to CORTRAK. RESULTS: Fifty-four adverse events between January 1, 2006 and February 29, 2016 were identified and reviewed. Most events (98%) involved feeding tube placement in the lungs (37%, left lung; 46%, right lung; 15%, not specified). Lung complications included pneumothorax (77%) and pneumonitis (21%). Death occurred in 17% of lung placements. Clinicians failed to recognize placement in 89% of CORTRAK insertion tracings reviewed. CONCLUSIONS: Lung placement is not unique to CORTRAK and is an inherent risk of all feeding tube insertions. In known or suspected lung placement, feeding tubes should be removed and radiography performed to assess for pneumothorax. Clinicians must observe closely for lung placement and discriminate lung from gastric placement on insertion tracings. Clinicians require specialized training and experience to develop competency in using the CORTRAK device, although the exact amount of experience needed is unknown.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Catheters"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Enteral Nutrition"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Intubation, Gastrointestinal"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Pneumothorax"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Radiography"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Retrospective Studies"
+      }
+    ],
+    "pdf_url": "N/A",
+    "has_pdf": false
+  },
+  {
+    "PMID": "39939127",
+    "Title": "Analysis of complications of minimally invasive approaches for symptomatic lumbar spinal stenosis.",
+    "Abstract": "INTRODUCTION: Current treatment modalities of lumbar spinal stenosis range from conservative medical management and physical therapy to open surgical decompression. Minimally invasive lumbar decompression (MILD) and Superion interspinous spacers (SISS) Vertiflex offer the promise of effective pain relief with shorter recovery time and lesser potential complications compared with open surgical decompression procedures and general anesthesia. Despite their increasing utilization, their complication profile is not well established in the literature. METHODS: We searched the FDA's Manufacturer and User facility Device Experience (MAUDE) database for all entries on MILD product code 'HRX' and SISS product code 'NQO'. MAUDE database was queried from 2010 to 2021. Duplicate entries were removed, and complications were classified based on the event descriptions. RESULTS: For the MILD procedure, a total of 10 entries were found in the MAUDE database. Among these, 8 were classified as surgical complications and 2 were device related. On the other hand, a total of 919 reports were found in the MAUDE database for Vertiflex, with 385 medical device reports were included in the analysis. Device-related were the most reported complication, accounting for 189 cases. CONCLUSION: As with any new intervention, we must proceed with caution and evaluate the procedure performance over time. Such data should aid physicians to make informed decisions before choosing either technique for their patients. The findings from this study provide insight into the complication profile associated with both MILD and Vertiflex procedures, highlighting the need for continued evaluation and careful consideration in clinical decision-making.",
+    "MeshTerms": "N/A",
+    "pdf_url": "N/A",
+    "has_pdf": false
+  },
+  {
+    "PMID": "37635415",
+    "Title": "Eustachian Tube Balloon Dilation: A Comprehensive Analysis of Adverse Events.",
+    "Abstract": "BACKGROUND: Eustachian tube balloon dilation (ETBD) has been Food and Drug Administration (FDA) approved for refractory Eustachian tube dysfunction since 2016. While ETBD is generally seen as safe, the complication profile has not been well defined. OBJECTIVE: The objective of this study was to utilize the FDA manufacturer and user facility device experience (MAUDE) database to better assess adverse events (AE) related to ETBD. METHODS: This is a study of a multiinstitutional database maintained by the U.S. FDA. A database analysis was performed via the collaboration of multiple clinicians at tertiary referral centers. The FDA MAUDE database was queried for all medical device reports (MDR) related to ETBD devices from January 2012 to November 2022. Eighty-eight unique MDR were identified, 16 of which met inclusion criteria. RESULTS: Three MDRs were classified as device-related (18.8%); none resulted in an AE. Thirteen MDRs (81.3%) were patient-related; all were classified as AEs. The most common AE was postoperative subcutaneous emphysema (n\u2009=\u20096, 46.2%). Of the patients with subcutaneous emphysema, there was a wide range of severity. The most severe AE (n\u2009=\u20091, 6.3%) was postoperative stroke secondary to carotid artery dissection. CONCLUSION: Though ETBD is generally seen as a safe procedure, there have been several concerning AEs reported to date. Increased awareness of ETBD complications can serve as a primer for improved patient education and counseling during the informed consent process and aid surgeons in clinical decision-making. Future studies with standardized reporting protocols are warranted to create a central registry for ETBD.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Eustachian Tube"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Dilatation"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Catheterization"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Databases, Factual"
+      }
+    ],
+    "pdf_url": "N/A",
+    "has_pdf": false
+  }
+]

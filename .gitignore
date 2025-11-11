@@ -1,0 +1,6 @@
+# Prevent all PDFs from being pushed
+*.pdf
+
+# Exclude specific folders containing PDFs
+experiments/all_pdf/
+experiments/pdf_17/

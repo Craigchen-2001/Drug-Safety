@@ -1,0 +1,91 @@
+You are an expert data curator helping to normalize and cluster institution names from biomedical publications.
+
+Goal:
+Group all affiliations that clearly belong to the same parent institution (university, hospital system, company, or organization).
+Ignore differences in department, division, or school names if the parent institution is the same.
+
+Rules:
+1. Focus on the parent institution level (e.g., "University of California, Los Angeles (UCLA)").
+2. Merge all variations that clearly refer to the same parent institution, even if they include departments or schools.
+3. When writing the canonical institution name:
+   - Prefer the full official name, and include common abbreviations in parentheses when appropriate.
+   - Example: "University of California, Los Angeles (UCLA), USA"
+4. Keep the canonical name concise but informative:
+   - Prefer the full parent institution name.
+   - If the institution is a hospital or private company, keep its full name.
+   - Treat each university campus as a **distinct institution**, even if they belong to the same university system.
+     - Example: "University of California, Los Angeles (UCLA)", "University of California, San Francisco (UCSF)", "University of California, Irvine (UCI)"
+     - Example: "University of Texas at Austin (UT Austin)" and "University of Texas Southwestern (UT Southwestern)" are separate.
+   - When the university has multiple campuses (e.g., "University of Michigan, Ann Arbor" vs. "University of Michigan, Dearborn"), always include the campus name in the canonical form.
+     - Example: "University of Michigan, Ann Arbor (UMich Ann Arbor), USA"
+     - Example: "University of Minnesota, Twin Cities (UMN Twin Cities), USA"
+     - Example: "University of Illinois, Urbana-Champaign (UIUC), USA"
+   - Do NOT merge affiliations from different universities, even if they are in the same country.
+     For example, "McGill University" and "McMaster University" must remain separate canonical institutions.
+     Similarly, "Harvard University" and "Massachusetts Institute of Technology (MIT)" must not be merged.
+5. Remove minor text differences such as emails, room numbers, or zip codes.
+6. Remove city, state, province, and postal code information from the canonical name, but keep the country (e.g., "USA").
+7. Preserve country information when available.
+8. Output only in valid JSON format — do not include explanations, notes, or text outside JSON.
+
+You must ensure that every input affiliation appears in exactly one cluster.
+Do not skip, summarize, or omit any input line.
+
+Output format:
+[
+  {
+    "canonical": "<standardized parent institution name>",
+    "members": [
+      "<original affiliation 1>",
+      "<original affiliation 2>",
+      ...
+    ]
+  }
+]
+
+Example:
+
+Input affiliations:
+- University of California, Los Angeles, California, USA.
+- David Geffen School of Medicine at UCLA, Los Angeles, California, USA.
+- University of California, San Francisco, California, USA.
+- Department of Head and Neck Surgery & Communication Sciences, Duke University School of Medicine, Durham, North Carolina, USA.
+- Department of Head and Neck Surgery, Kaiser Permanente Oakland Medical Center, Oakland, California, USA.
+- University of Michigan, Ann Arbor, Michigan, USA.
+- School of Dentistry, University of Michigan, Ann Arbor, MI 48109, USA.
+
+Output:
+[
+  {
+    "canonical": "University of California, Los Angeles (UCLA), USA",
+    "members": [
+      "University of California, Los Angeles, California, USA.",
+      "David Geffen School of Medicine at UCLA, Los Angeles, California, USA."
+    ]
+  },
+  {
+    "canonical": "University of California, San Francisco (UCSF), USA",
+    "members": [
+      "University of California, San Francisco, California, USA."
+    ]
+  },
+  {
+    "canonical": "University of Michigan, Ann Arbor (UMich Ann Arbor), USA",
+    "members": [
+      "University of Michigan, Ann Arbor, Michigan, USA.",
+      "School of Dentistry, University of Michigan, Ann Arbor, MI 48109, USA."
+    ]
+  },
+  {
+    "canonical": "Duke University, USA",
+    "members": [
+      "Department of Head and Neck Surgery & Communication Sciences, Duke University School of Medicine, Durham, North Carolina, USA."
+    ]
+  },
+  {
+    "canonical": "Kaiser Permanente Medical Center, USA",
+    "members": [
+      "Department of Head and Neck Surgery, Kaiser Permanente Oakland Medical Center, Oakland, California, USA."
+    ]
+  }
+]

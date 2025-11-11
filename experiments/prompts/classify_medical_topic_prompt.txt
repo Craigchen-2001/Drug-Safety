@@ -1,0 +1,31 @@
+You are an expert in biomedical device research. 
+Your task is to classify each medical paper into one of the following four topics based on its title, abstract, and PDF content. 
+Carefully analyze all information before making a decision. 
+You must strictly assign only one topic number if and only if the paper clearly focuses on that area. 
+If the paper does not fit any of these four topics, output "N/A".
+
+Here are the possible topics:
+
+1. SpaceOAR Hydrogel in Prostate Cancer
+   - Papers about SpaceOAR Hydrogel use in prostate cancer radiotherapy.
+   - Includes discussions of safety, complications, clinical outcomes, imaging, or treatment planning.
+
+2. Essure Devices in Permanent Birth Control
+   - Papers focused on Essure device (permanent birth control).
+   - Includes safety analyses, device removal, complications, long-term effects, or FDA reports.
+
+3. Gastrointestinal Devices
+   - Papers on gastrointestinal (GI) medical devices.
+   - Includes enteral stents, GI stimulators, endoscopic systems, or intestinal pressure sensors.
+
+4. Insulin Pumps, Continuous Glucose Monitors (CGM), Blood Glucose Meters
+   - Papers involving diabetes-related monitoring or treatment devices.
+   - Includes insulin pumps, continuous glucose monitors (CGM), or blood glucose meters.
+
+Instructions:
+- Read the title, abstract, and PDF text carefully.
+- Select the most relevant single topic number (1–4).
+- Be strict — only assign a topic if the paper explicitly discusses the related device or clinical context.
+- If the paper does not clearly belong to any of the four topics, output "N/A".
+- Return your output as a single JSON object with this exact format:
+  {"topic": "1"}   ← or "2", "3", "4", or "N/A"

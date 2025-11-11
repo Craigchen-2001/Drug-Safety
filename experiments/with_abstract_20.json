@@ -1,0 +1,715 @@
+[
+  {
+    "PMID": "28249868",
+    "Title": "Cortrak-Assisted Feeding Tube Insertion: A Comprehensive Review of Adverse Events in the MAUDE Database.",
+    "Abstract": "BACKGROUND: Electromagnetic devices to guide feeding tube placement such as the CORTRAK Enteral Access System have shown promising results; however, researchers in recent studies have expressed concern that a higher level of user expertise may be required for safe use. OBJECTIVES: To review adverse events related to CORTRAK-assisted feeding tube insertion reported in the Food and Drug Administration's Manufacturer and User Facility Device Experience (MAUDE) database. METHODS: A retrospective, secondary analysis of the MAUDE database was performed to evaluate adverse events (ie, injury or death of patient) related to CORTRAK. RESULTS: Fifty-four adverse events between January 1, 2006 and February 29, 2016 were identified and reviewed. Most events (98%) involved feeding tube placement in the lungs (37%, left lung; 46%, right lung; 15%, not specified). Lung complications included pneumothorax (77%) and pneumonitis (21%). Death occurred in 17% of lung placements. Clinicians failed to recognize placement in 89% of CORTRAK insertion tracings reviewed. CONCLUSIONS: Lung placement is not unique to CORTRAK and is an inherent risk of all feeding tube insertions. In known or suspected lung placement, feeding tubes should be removed and radiography performed to assess for pneumothorax. Clinicians must observe closely for lung placement and discriminate lung from gastric placement on insertion tracings. Clinicians require specialized training and experience to develop competency in using the CORTRAK device, although the exact amount of experience needed is unknown.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Catheters"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Enteral Nutrition"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Intubation, Gastrointestinal"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Pneumothorax"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Radiography"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Retrospective Studies"
+      }
+    ],
+    "pdf_url": "N/A"
+  },
+  {
+    "PMID": "39939127",
+    "Title": "Analysis of complications of minimally invasive approaches for symptomatic lumbar spinal stenosis.",
+    "Abstract": "INTRODUCTION: Current treatment modalities of lumbar spinal stenosis range from conservative medical management and physical therapy to open surgical decompression. Minimally invasive lumbar decompression (MILD) and Superion interspinous spacers (SISS) Vertiflex offer the promise of effective pain relief with shorter recovery time and lesser potential complications compared with open surgical decompression procedures and general anesthesia. Despite their increasing utilization, their complication profile is not well established in the literature. METHODS: We searched the FDA's Manufacturer and User facility Device Experience (MAUDE) database for all entries on MILD product code 'HRX' and SISS product code 'NQO'. MAUDE database was queried from 2010 to 2021. Duplicate entries were removed, and complications were classified based on the event descriptions. RESULTS: For the MILD procedure, a total of 10 entries were found in the MAUDE database. Among these, 8 were classified as surgical complications and 2 were device related. On the other hand, a total of 919 reports were found in the MAUDE database for Vertiflex, with 385 medical device reports were included in the analysis. Device-related were the most reported complication, accounting for 189 cases. CONCLUSION: As with any new intervention, we must proceed with caution and evaluate the procedure performance over time. Such data should aid physicians to make informed decisions before choosing either technique for their patients. The findings from this study provide insight into the complication profile associated with both MILD and Vertiflex procedures, highlighting the need for continued evaluation and careful consideration in clinical decision-making.",
+    "MeshTerms": "N/A",
+    "pdf_url": "N/A"
+  },
+  {
+    "PMID": "39353499",
+    "Title": "Underreporting of complications following AF ablation: Comparison of the manufacturer and user facility device experience FDA database and a voluntary invitation-based registry: The POTTER-AF 3 study.",
+    "Abstract": "BACKGROUND: The Manufacturer and User Facility Device Experience (MAUDE) database houses medical device reports of adverse events involving medical devices marketed in the United States submitted to the U.S. Food and Drug Administration (FDA) by mandatory and voluntary reporters. The MAUDE database is frequently used in clinical studies to report on device-related complications. Data about its efficacy are scarce. OBJECTIVE: We aimed to compare the mandatory MAUDE database (MAUDE group) with the invitation-based POTTER-AF study (POTTER-AF 1 group) regarding data quality, procedural characteristics, diagnosis, treatment, and survival. METHODS: The reports of esophageal fistula esophageal fistula following atrial fibrillation (AF) ablation in the MAUDE database were compared with those in the POTTER-AF study between August 1, 2009, and August 31,\u00a02019. RESULTS: Esophageal fistulas were reported in 47 patients in the MAUDE group and in 81 in the POTTER-AF 1 group. Procedures were performed with radiofrequency, cryoenergy, or laser energy in 66.0%, 31.9%, and 2.1% (MAUDE group) and in 96.3%, 2.5%, and 1.2% (POTTER-AF 1 group). The median time to symptoms was 21 (14, 32.5) days (MAUDE group) and 18.0 (6.8, 22.3) days (POTTER-AF 1 group; P = .031). The diagnostic method was reported in 38.3% of patients in the MAUDE group and in 98.8% in the POTTER-AF 1 group, the treatment in 57.4% and 100%, and the outcome in all patients. In the MAUDE group, treatment was surgical (51.9%), endoscopic (37.0%), combined (3.7%), or conservative (7.4%), compared with 43.2%, 19.8%, 7.4%, and 29.6% in the POTTER-AF 1 group. Overall mortality was 76.6% in the MAUDE group and 61.7% in the POTTER-AF 1 group (P = .118). CONCLUSION: In the mandatory MAUDE database, fewer esophageal fistula cases were reported compared with an invitation-based study. The data quality in the MAUDE database was significantly poorer.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "United States"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Atrial Fibrillation"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Male"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "United States Food and Drug Administration"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Female"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Catheter Ablation"
+      },
+      {
+        "MeshTermNum": "8",
+        "MeshTerm": "Registries"
+      },
+      {
+        "MeshTermNum": "9",
+        "MeshTerm": "Esophageal Fistula"
+      },
+      {
+        "MeshTermNum": "10",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "11",
+        "MeshTerm": "Middle Aged"
+      },
+      {
+        "MeshTermNum": "12",
+        "MeshTerm": "Postoperative Complications"
+      },
+      {
+        "MeshTermNum": "13",
+        "MeshTerm": "Aged"
+      },
+      {
+        "MeshTermNum": "14",
+        "MeshTerm": "Retrospective Studies"
+      }
+    ],
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1547527124033915/pdfft?md5=b8996df0711a482a56e72375411a9bca&pid=1-s2.0-S1547527124033915-main.pdf"
+  },
+  {
+    "PMID": "30841006",
+    "Title": "Understanding Health Information Technology Induced Medication Safety Events by Two Conceptual Frameworks.",
+    "Abstract": "BACKGROUND: While health information technology (health IT) is able to prevent medication errors in many ways, it may also potentially introduce new paths to errors. To understand the impact of health IT induced medication errors, this study aims to conduct a retrospective analysis of medication safety reports. METHODS: From the U.S. Food and Drug Administration (FDA) Manufacturer and User Facility Device Experience database, we identified reports in which health IT is a contributing factor to medication errors. We applied two conceptual frameworks, Sittig and Singh's sociotechnical model and Coiera's information value chain, to examine the identified reports. RESULTS: We identified 152 unique reports on health IT induced medication errors as the final report set for review. The majority (65.13%) of the reports involved multiple contributing factors according to the sociotechnical model. Three dimensions, that is, clinical content, human-computer interface, and people, were involved in more reports than the others. The transition of the effects of health IT on medication practice was summarized using information value chain. Health IT related contributing factors may lead to receiving wrong information, missing information, receiving partial information and delayed information, and receiving wrong information and missing information tend to cause the commission errors in decision-making. CONCLUSION: The two frameworks provide an opportunity to understand a comprehensive context of safety event and the impact of health IT induced errors on medication safety. The sociotechnical model helps identify the aspects causing medication safety issues. The information value chain helps uncover the effect of the health IT induced medication errors on health care process and patient outcomes.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Health Information Systems"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Medication Errors"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Research Report"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Retrospective Studies"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Safety"
+      }
+    ],
+    "pdf_url": "https://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0039-1678693.pdf"
+  },
+  {
+    "PMID": "39106679",
+    "Title": "MAUDE database and Eustachian tube balloon dilation: Evaluation of adverse events and sales data.",
+    "Abstract": "STUDY DESIGN: Review of database. SETTING: Tertiary care neurotology center. PATIENTS: Patients undergoing adverse events. INTERVENTION: MAUDE database evaluation of Eustachian tube balloon dilation (ETBD) for the treatment of Eustachian tube dysfunction. MAIN OUTCOME MEASURES: Medical device reports (MDRs) from the MAUDE database were analyzed for adverse patient events (AE) and device malfunctions (DM) among different devices for ETBD. The objective of this analysis is to assess AE rates and compare them across different devices. Sales data was also used to calculate AE rates. RESULTS: There were 18 MDRs noted in the MAUDE database for patients undergoing ETBD out of an initial 23 results. When separated into devices, the Aera had 9 total MDRs (50\u00a0%), Xpress had 8 (44.4\u00a0%) and Audion had 1 (5.6\u00a0%). There were 10 AE and 8 DM. When separated by device, Aera had 4 AEs and 5 DMs, Xpress had 5 AEs and 3 DMs, and Audion had 1 AE. The most common AE was subcutaneous emphysema (n\u00a0=\u00a04), in the head and neck region with one report of mediastinal involvement. Using this sales data, the Aera balloon has an MDR rate of 0.0128\u00a0% is established, with a rate of AE at 0.0058\u00a0%. The Audion balloon had an MDR and AE rate of 0.0164\u00a0%. CONCLUSIONS: ETBD is a safe procedure with minimal complications, with subcutaneous emphysema being the most commonly reported adverse event, consistent with literature findings. A comprehensive analysis of AE, coupled with sales data, indicates a commendably low MDR rate of 0.0128\u00a0% for the Aera balloon while the Audion balloon had an MDR rate of 0.0164\u00a0%. These findings offer valuable insights on post-procedure expectations and engaging in informed consent discussions with patients, highlighting the overall safety of ETBD as an intervention.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Eustachian Tube"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Dilatation"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Ear Diseases"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Equipment Failure"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Male"
+      },
+      {
+        "MeshTermNum": "8",
+        "MeshTerm": "Female"
+      },
+      {
+        "MeshTermNum": "9",
+        "MeshTerm": "Commerce"
+      }
+    ],
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0196070924002679/pdfft?md5=7144db028824776fc77446394ede985c&pid=1-s2.0-S0196070924002679-main.pdf"
+  },
+  {
+    "PMID": "33484416",
+    "Title": "Adverse event reporting in head and neck transoral robotic surgery: a MAUDE database study.",
+    "Abstract": "Transoral robotic surgery (TORS) using the da Vinci Surgical system was approved by the US Food and Drug Administration in 2009. Currently, most available safety information on TORS procedures describes adverse events occurring in the context of clinical trials or series at high-volume academic centers. The goal of this study was to catalog reported adverse events associated with the da Vinci device in head and neck procedures by querying an FDA database. A search was performed on the MAUDE database inspecting for TORS safety incident reports generated from January 2009 through May 2020 using key words \"da Vinci\" and \"Intuitive Surgical\". A total of 3312 medical device records were produced. Of these 36 head and neck adverse events, reports were identified through manual screening of the data by the authors. Death was found to be the most common adverse event reported overall, manifesting in 44% of all reported incidents. The most frequent source of mortality was found to be hemorrhaging in the perioperative period rather than incidents of device malfunction or structural damage from surgery. This was found to be similar to the results of other published series for transoral ablative surgery. This study suggests that the small number of reported adverse events related to TORS with the da Vinci system seems to mirror what would be expected from the same procedures using other methods for transoral surgery.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Head"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Neck"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Robotic Surgical Procedures"
+      }
+    ],
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11701-020-01185-1.pdf"
+  },
+  {
+    "PMID": "27913723",
+    "Title": "The Utility of the MAUDE Database for Osseointegrated Auditory Implants.",
+    "Abstract": "OBJECTIVE: To determine the utility of Manufacturer and User Friendly Device Experience (MAUDE) database in studying osseointegrated auditory implant (OAI)-related complications. METHODS: The MAUDE database was searched for all reports involving OAIs (ie, Baha, Ponto, Sophono). Complications were classified into 1 or more of 6 categories-implant, abutment, processor, skin, surgery, and other. Subcategories were generated to prevent overgeneralization. Other variables recorded included date of report, number of complications per report, manufacturer, and time from complication to report. RESULTS: Over the study period, there were 269 complications listed from 238 reports divided into the following categories: implant related (n = 145), abutment related (n = 16), processor related (n = 13), skin and soft tissue related (n = 79), surgery related (n = 11), and other (n = 5). No demographic data were available. There were no discernible trends from the data, and when compared to published literature, MAUDE data appear to under- or misrepresent complications. CONCLUSION: The MAUDE database is limited in its design and given fairly disparate reporting quality may not be ideally suited for quantifying risks of OAIs. These findings suggest the necessity for a substantially improved central registry for otologic implants and highlight the need for further research to investigate the root causes of their associated complication.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Neural Prostheses"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Osseointegration"
+      }
+    ],
+    "pdf_url": "https://scholar.google.com/scholar_url?url=https://journals.sagepub.com/doi/pdf/10.1177/0003489416674962&hl=en&sa=T&oi=ucasa&ct=usl&ei=1orNaJm7KpLG6rQPr6SikQk&scisig=AAZF9b8apJkfRC-dfSfiVjCJc-aH"
+  },
+  {
+    "PMID": "21303646",
+    "Title": "Analysis of the performance of the CONTOUR\u00ae TS Blood Glucose Monitoring System: when regulatory performance criteria are met, should we have confidence to use a medical device with all patients?",
+    "Abstract": "The article entitled, Performance of the CONTOUR\u00ae TS Blood Glucose Monitoring System, by Frank and colleagues in this issue of Journal of Diabetes Science and Technology, demonstrates that the CONTOUR\u00ae TS glucose meter exceeds current regulatory expectations for glucose meter performance. However, the appropriateness of current regulatory expectations, such as International Organization for Standardization (ISO) 15197:2003, is being reevaluated because of increasing concern regarding the reliability of glucose meters in ambulatory and hospitalized environments. Between 2004 and 2008, 12,673 serious adverse events with glucose meters that met the ISO 15197 expectations were reported in the Food and Drug Administration-Manufacturer and User Facility Device Experience surveillance database. Should different glucose meter performance criteria be applied to ambulatory versus critical care patients?",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Blood Glucose"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Blood Glucose Self-Monitoring"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Calibration"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Clinical Laboratory Techniques"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Diabetes Mellitus, Type 1"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Diabetes Mellitus, Type 2"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Efficiency"
+      },
+      {
+        "MeshTermNum": "8",
+        "MeshTerm": "Equipment Design"
+      },
+      {
+        "MeshTermNum": "9",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "10",
+        "MeshTerm": "Models, Biological"
+      },
+      {
+        "MeshTermNum": "11",
+        "MeshTerm": "Monitoring, Physiologic"
+      },
+      {
+        "MeshTermNum": "12",
+        "MeshTerm": "Reproducibility of Results"
+      },
+      {
+        "MeshTermNum": "13",
+        "MeshTerm": "Sensitivity and Specificity"
+      }
+    ],
+    "pdf_url": "https://scholar.google.com/scholar_url?url=https://journals.sagepub.com/doi/pdf/10.1177/193229681100500129&hl=en&sa=T&oi=ucasa&ct=ufr&ei=FIvNaIjIH5PM6rQP7Nfb0QI&scisig=AAZF9b_dJ3O617p0yL-UUyV4cLau"
+  },
+  {
+    "PMID": "37635415",
+    "Title": "Eustachian Tube Balloon Dilation: A Comprehensive Analysis of Adverse Events.",
+    "Abstract": "BACKGROUND: Eustachian tube balloon dilation (ETBD) has been Food and Drug Administration (FDA) approved for refractory Eustachian tube dysfunction since 2016. While ETBD is generally seen as safe, the complication profile has not been well defined. OBJECTIVE: The objective of this study was to utilize the FDA manufacturer and user facility device experience (MAUDE) database to better assess adverse events (AE) related to ETBD. METHODS: This is a study of a multiinstitutional database maintained by the U.S. FDA. A database analysis was performed via the collaboration of multiple clinicians at tertiary referral centers. The FDA MAUDE database was queried for all medical device reports (MDR) related to ETBD devices from January 2012 to November 2022. Eighty-eight unique MDR were identified, 16 of which met inclusion criteria. RESULTS: Three MDRs were classified as device-related (18.8%); none resulted in an AE. Thirteen MDRs (81.3%) were patient-related; all were classified as AEs. The most common AE was postoperative subcutaneous emphysema (n\u2009=\u20096, 46.2%). Of the patients with subcutaneous emphysema, there was a wide range of severity. The most severe AE (n\u2009=\u20091, 6.3%) was postoperative stroke secondary to carotid artery dissection. CONCLUSION: Though ETBD is generally seen as a safe procedure, there have been several concerning AEs reported to date. Increased awareness of ETBD complications can serve as a primer for improved patient education and counseling during the informed consent process and aid surgeons in clinical decision-making. Future studies with standardized reporting protocols are warranted to create a central registry for ETBD.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Eustachian Tube"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Dilatation"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Catheterization"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Databases, Factual"
+      }
+    ],
+    "pdf_url": "N/A"
+  },
+  {
+    "PMID": "34919294",
+    "Title": "Assessing adverse event reports of hysteroscopic sterilization device removal using natural language processing.",
+    "Abstract": "OBJECTIVE: To develop an annotation model to apply natural language processing (NLP) to device adverse event reports and implement the model to evaluate the most frequently experienced events among women reporting a sterilization device removal. METHODS: We included adverse event reports from the Manufacturer and User Facility Device Experience database from January 2005 to June 2018 related to device removal following hysteroscopic sterilization. We used an iterative process to develop an annotation model that extracts six categories of desired information and applied the annotation model to train an NLP algorithm. We assessed the model performance using positive predictive value (PPV, also known as precision), sensitivity (also known as recall), and F1 score (a combined measure of PPV and sensitivity). Using extracted variables, we summarized the reporting source, the presence of prespecified and other patient and device events, additional sterilizations and other procedures performed, and time from implantation to removal. RESULTS: The overall F1 score was 91.5% for labeled items and 93.9% for distinct events after excluding duplicates. A total of 16\u2009535 reports of device removal were analyzed. The most frequently reported patient and device events were abdominal/pelvic/genital pain (N\u00a0=\u00a013\u2009166, 79.6%) and device dislocation/migration (N\u00a0=\u00a03180, 19.2%), respectively. Of those reporting an additional sterilization procedure, the majority had a hysterectomy or salpingectomy (N\u00a0=\u00a07932). One-fifth of the cases that had device removal timing specified reported a removal after 7\u2009years following implantation (N\u00a0=\u00a02444/11\u2009293). CONCLUSIONS: We present a roadmap to develop an annotation model for NLP to analyze device adverse event reports. The extracted information is informative and complements findings from previous research using administrative data.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Device Removal"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Female"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Hysteroscopy"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Natural Language Processing"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Pregnancy"
+      },
+      {
+        "MeshTermNum": "8",
+        "MeshTerm": "Sterilization"
+      },
+      {
+        "MeshTermNum": "9",
+        "MeshTerm": "Sterilization, Tubal"
+      }
+    ],
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pds.5402?"
+  },
+  {
+    "PMID": "19530742",
+    "Title": "Patient-controlled analgesia-related medication errors in the postoperative period: causes and prevention.",
+    "Abstract": "Patient-controlled analgesia (PCA) is a common and effective means of managing postoperative pain. Unfortunately, the complex processes and equipment associated with the setup, programming and administration of intravenous or epidural PCA have allowed it to become a significant source of preventable medication errors. These errors can be classified into two major categories: human (operator) errors and equipment errors (malfunctions). Such errors are potentially harmful to patients, time-consuming for hospital staff and costly for healthcare providers. The objective of this article is to describe PCA medication errors and examine systems and modalities that may help reduce the incidence of system-related errors. Data from the US FDA's Manufacturer and User Facility Device Experience (MAUDE) database indicate that 6.5% of intravenous PCA-related events were due to operator error. Most (81%) of these errors were due to pump misprogramming, of which almost half were associated with patient harm; 76.4% of adverse events were attributed to device malfunction (e.g. due to frayed wires or a crack in the drug cartridge), although only 0.5% of these were associated with harm to patients. In a report based on data from MEDMARX, a voluntary database that captures reports on medication errors, 7.9% of the PCA-related errors captured over a 5-year period were described as causing harm to patients. Technological advances, such as improved PCA pump designs based on ergonomic and cognitive engineering principles, the use of barcode technology and other 'smart pump' safety features, and new postoperative pain management modalities, may play a significant role in reducing the future incidence and severity of PCA medication errors.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Adverse Drug Reaction Reporting Systems"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Analgesia, Patient-Controlled"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Analgesics, Opioid"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Equipment Failure"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Infusion Pumps"
+      },
+      {
+        "MeshTermNum": "8",
+        "MeshTerm": "Medication Errors"
+      },
+      {
+        "MeshTermNum": "9",
+        "MeshTerm": "Pain, Postoperative"
+      },
+      {
+        "MeshTermNum": "10",
+        "MeshTerm": "United States"
+      }
+    ],
+    "pdf_url": "https://link.springer.com/content/pdf/10.2165/00002018-200932070-00002.pdf"
+  },
+  {
+    "PMID": "20976748",
+    "Title": "Sterile radial artery granuloma after transradial procedures: a unique and avoidable complication.",
+    "Abstract": "Trans-radial cardiac catheterization has lower rates of arterial access site complications. Hydrophilic-coated sheaths designed specifically for trans-radial procedures have resulted in numerous reports of a foreign body reaction to retained material. Although this is a self-limited condition that should be managed expectantly, it is often confused with an infected pseudoaneurysm, resulting in unnecessary surgery. We searched the FDA MAUDE (Manufacturer and User Facility Device Experience) database to determine which brands of sheath have been associated with this complication. In addition, we performed a literature search for all reported cases of this complication. Only one brand of sheath has been associated with this condition. As trans-radial procedures become more common in the US, knowledge of such complications, which appear to be specific to the Cook radial hydrophilic-coated sheaths, is imperative for all radial interventionalists to prevent unnecessary surgical procedures. \u00a9 2010 Wiley-Liss, Inc.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Cardiac Catheterization"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Diagnostic Errors"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Equipment Design"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Granuloma, Foreign-Body"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Radial Artery"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Risk Assessment"
+      },
+      {
+        "MeshTermNum": "8",
+        "MeshTerm": "Risk Factors"
+      }
+    ],
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ccd.22730?"
+  },
+  {
+    "PMID": "17197707",
+    "Title": "Severe, diffuse coronary artery spasm after drug-eluting stent placement.",
+    "Abstract": "OBJECTIVES: Three cases of severe, diffuse coronary artery spasm after drug-eluting stent placement at our institution prompted this review. BACKGROUND: Drug-eluting stents have gained widespread use due to extraordinarily low rates of restenosis. Despite these generally superior clinical outcomes, the specter of rare idiosyncratic reactions remains a concern. METHODS: We performed searches of Medline and the U.S. FDA Manufacturer And User facility Device Experience database (MAUDE) to identify and describe spasm after coronary stent placement. Searches included drug-eluting and bare-metal stents. Institutional cases are reviewed. Location, time course and outcome of cases are described. RESULTS: Thirteen cases of spasm were identified after stent placement. Seven cases occurred after Cypher drug-eluting stent placement, 2 after Taxus drug-eluting stent placement, 1 after BiodivYsio and 3 after bare-metal stents. Five patients experienced diffuse, multivessel spasm--2 after Cypher, 2 after Taxus, and 1 after a Velocity stent. Of these 5 patients, 2 died. An additional 2 required intra-aortic balloon pump placement for cardiogenic shock. Another had persistent symptomatic, diffuse coronary spasm documented by angiography at 1 year. CONCLUSIONS: We describe coronary spasm after stent placement, particularly after drug-eluting stents. Outcomes associated with diffuse severe spasm after stenting are poor, and the pathophysiology remains poorly understood.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Angioplasty, Balloon, Coronary"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Coronary Artery Disease"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Coronary Restenosis"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Coronary Vasospasm"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Drug Delivery Systems"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Female"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "8",
+        "MeshTerm": "Immunosuppressive Agents"
+      },
+      {
+        "MeshTermNum": "9",
+        "MeshTerm": "Male"
+      },
+      {
+        "MeshTermNum": "10",
+        "MeshTerm": "Middle Aged"
+      },
+      {
+        "MeshTermNum": "11",
+        "MeshTerm": "Radiography"
+      },
+      {
+        "MeshTermNum": "12",
+        "MeshTerm": "Severity of Illness Index"
+      },
+      {
+        "MeshTermNum": "13",
+        "MeshTerm": "Stents"
+      }
+    ],
+    "pdf_url": "https://www.researchgate.net/profile/Peter-Anderson-20/publication/6602607_Severe_diffuse_coronary_artery_spasm_after_drug-eluting_stent_placement/links/540f2d3f0cf2f2b29a3dd633/Severe-diffuse-coronary-artery-spasm-after-drug-eluting-stent-placement.pdf?"
+  },
+  {
+    "PMID": "37485105",
+    "Title": "Coronary Intra-orbital Atherectomy Complications and Procedural Failure: Insight From the Manufacturer and User Facility Device Experience (MAUDE) Database.",
+    "Abstract": "BACKGROUND: The Diamondback 360\u00ae Coronary Orbital Atherectomy System (Cardiovascular Systems Inc., St. Paul, MN) is the first and only orbital atherectomy system approved by the US FDA for the treatment of severely calcified lesions. While the device has proven to be safe in clinical trials, real-world data are minimal. METHODS: The Manufacturer and User Facility Device Experience (MAUDE) database was queried for reports on the Diamondback 360\u00ae Coronary from January 2019 to January 2022. RESULTS: A total of 566 events were reported during the study period. After the exclusion of duplicate reports, the final cohort included 547 reports. The most common mode of failure was break or separation of a device part (40.4%, n = 221) mainly due to breaking in the tip of the ViperWire\u00a0(66.1%), driveshaft (22.7%), or crown (12.2%). The most common vessel associated with events was the left anterior descending artery (31.4%), followed by the right coronary artery (26.9%), left circumflex (21.6%), and left main coronary artery (6.4%). The most common clinical adverse outcome was perforation (33.0%, n = 181) with 23.7% resulting in cardiac tamponade. Most perforation cases were treated by covered stent (44.2%), surgery (30.5%), stent (98%), and balloon angioplasty (9%). There were 89 (16.3%) events of death with 67% due to perforation (p < 0.001). CONCLUSION: Our study provided a glimpse of real-world adverse outcomes and common modes of failure due to orbital atherectomy. The most common mode of failure was the break or separation of a device part and the most common complication was perforation according to the MAUDE database. It will help physicians to\u00a0anticipate\u00a0complications and escalate care\u00a0appropriately.",
+    "MeshTerms": "N/A",
+    "pdf_url": "https://assets.cureus.com/uploads/original_article/pdf/165647/20230722-8055-1hhodfw.pdf"
+  },
+  {
+    "PMID": "33147430",
+    "Title": "Analysis of Adverse Events Related to Impella Usage (from the Manufacturer and User Facility Device Experience and National Inpatient Sample Databases).",
+    "Abstract": "Impella devices are increasingly utilized for hemodynamic support in high-risk percutaneous coronary intervention or cardiogenic shock despite a lack of randomized clinical trial data showing clinical benefit and newer observational data suggesting harm. In this retrospective analysis, our aim was to determine the most common adverse events associated with Impella usage reported annually to the Food and Drug Administration Manufacturer and User Facility Device Experience (MAUDE) database and to estimate via the National Inpatient Sample (NIS) database the number of percutaneous ventricular assist devices utilized and associated with inpatient mortality since introduction of the Impella. Among the 885 complete reports submitted to the MAUDE database from 2008 to 2019 related to Impella usage, there were 1,206 complications coded; 88.2% of reports occurred from 2016 to 2019. Among patients with adverse events reported, bleeding (32.8%), device deployment or retrieval issues (18.2%), vascular complications (15.8%), and death (12.4%) were the most common, and 7.9% of all complications were attributable to operator decision-making or technique. From 2007 to 2017 there was a >100-fold increase in percutaneous ventricular assist devices use with an increase and plateau in in-hospital mortality to 31% from 2012 to 2016 based on NIS data. In conclusion, Impella use has increased substantially over the last decade but remains associated with high inpatient mortality and serious complications based on data from the NIS and MAUDE databases. These findings emphasize the need for high quality randomized controlled trials to determine the clinical utility of Impella in high-risk percutaneous coronary intervention and cardiogenic shock.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Equipment Failure"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Follow-Up Studies"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Heart-Assist Devices"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Hospital Mortality"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Incidence"
+      },
+      {
+        "MeshTermNum": "8",
+        "MeshTerm": "Inpatients"
+      },
+      {
+        "MeshTermNum": "9",
+        "MeshTerm": "Postoperative Complications"
+      },
+      {
+        "MeshTermNum": "10",
+        "MeshTerm": "Retrospective Studies"
+      },
+      {
+        "MeshTermNum": "11",
+        "MeshTerm": "Risk Factors"
+      },
+      {
+        "MeshTermNum": "12",
+        "MeshTerm": "Shock, Cardiogenic"
+      },
+      {
+        "MeshTermNum": "13",
+        "MeshTerm": "Survival Rate"
+      },
+      {
+        "MeshTermNum": "14",
+        "MeshTerm": "United States"
+      }
+    ],
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0002914920311899/pdfft?md5=1ccdb6d783277f1a32c4041f6384ee3c&pid=1-s2.0-S0002914920311899-main.pdf"
+  },
+  {
+    "PMID": "36789489",
+    "Title": "Analysis of reported adverse events of pipeline stents for intracranial aneurysms using the FDA MAUDE database.",
+    "Abstract": "OBJECTIVE: Flow diverting stents (FDS) are a validated device in the treatment of intracranial aneurysms, allowing for minimally invasive intervention. However, after its approval for use in the United States in 2011, post-market surveillance of adverse events is limited. This study aims to address this critical knowledge gap by analyzing the FDA Manufacturer and User Facility Device Experience (MAUDE) database for patient and device related (PR and DR) reports of adverse events and malfunctions. METHODS: Using post-market surveillance data from the MAUDE database, PR and DR reports from January 2012-December 2021 were extracted, compiled, and analyzed with R-Studio version 2021.09.2. PR and DR reports with insufficient information were excluded. Raw information was organized, and further author generated classifications were created for both PR and DR reports. RESULTS: A total of 2203 PR and 4017 DR events were recorded. The most frequently reported PR adverse event categories were cerebrovascular (60%), death (11%), and neurological (8%). The most frequent PR adverse event reports were death (11%), thrombosis/thrombus (9%) cerebral infarction (8%), decreased therapeutic response (7%), stroke/cerebrovascular accident (6%), intracranial hemorrhage (5%), aneurysm (4%), occlusion (4%), headache (4%), neurological deficit/dysfunction (3%). The most frequent DR reports were activation/positioning/separation problems (52%), break (9%), device operates differently than expected (4%), difficult to open or close (4%), material deformation (3%), migration or expulsion of device (3%), detachment of device or device component (2%). CONCLUSIONS: Post-market surveillance is important to guide patient counselling and identify adverse events and device problems that were not identified in initial trials. We present frequent reports of several types of cerebrovascular and neurological adverse events as well as the most common device shortcomings that should be explored by manufacturers and future studies. Although inherent limitations to the MAUDE database are present, our results highlight important PR and DR complications that can help optimize patient counseling and device development.",
+    "MeshTerms": "N/A",
+    "pdf_url": "https://www.the-jcen.org/upload/pdf/jcen-2023-e2022-10-010.pdf"
+  },
+  {
+    "PMID": "36198829",
+    "Title": "Automated insulin delivery: benefits, challenges, and recommendations. A Consensus Report of the Joint Diabetes Technology Working Group of the European Association for the Study of Diabetes and the American Diabetes Association.",
+    "Abstract": "A technological solution for the management of diabetes in people who require intensive insulin therapy has been sought for decades. The last 10 years have seen substantial growth in devices that can be integrated into clinical care. Driven by the availability of reliable systems for continuous glucose monitoring, we have entered an era in which insulin delivery through insulin pumps can be modulated based on sensor glucose data. Over the past few years, regulatory approval of the first automated insulin delivery (AID) systems has been granted, and these systems have been adopted into clinical care. Additionally, a community of people living with type 1 diabetes has created its own systems using a do-it-yourself approach by using products commercialised for independent use. With several AID systems in development, some of which are anticipated to be granted regulatory approval in the near future, the joint Diabetes Technology Working Group of the European Association for the Study of Diabetes and the American Diabetes Association has created this consensus report. We provide a review of the current landscape of AID systems, with a particular focus on their safety. We conclude with a series of recommended targeted actions. This is the fourth in a series of reports issued by this working group. The working group was jointly commissioned by the executives of both organisations to write the first statement on insulin pumps, which was published in 2015. The original authoring group was comprised by three nominated members of the American Diabetes Association and three nominated members of the European Association for the Study of Diabetes. Additional authors have been added to the group to increase diversity and range of expertise. Each organisation has provided a similar internal review process for each manuscript prior to submission for editorial review by the two journals. Harmonisation of editorial and substantial modifications has occurred at both levels. The members of the group have selected the subject of each statement and submitted the selection to both organisations for confirmation.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "United States"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Insulin"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Blood Glucose Self-Monitoring"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Blood Glucose"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Diabetes Mellitus"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Technology"
+      }
+    ],
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s00125-022-05744-z.pdf"
+  },
+  {
+    "PMID": "35379535",
+    "Title": "Device-related complications during renal cryoablation: insights from the Manufacturer and User Facility Device Experience (MAUDE) database.",
+    "Abstract": "INTRODUCTION AND OBJECTIVES: Cryoablation offers a treatment option for small renal masses ideally suited \u22643 cm. In well-selected candidates, it is associated with less perioperative morbidity compared to more invasive options, such as partial or radical nephrectomy. However, little is known regarding device-related complications associated with the procedure. We provide an analysis of reports on renal cryoablation from the Food and Drug Administration Manufacturer and User Facility Device Experience (MAUDE) database. METHODS: Reports on renal cryoablation submitted to the MAUDE database from 2015 through 6/2021 were analyzed. Cases not pertaining to renal cryoablation were excluded (n\u202f=\u202f33). Reports were examined to identify patient morbidity related to a potential device malfunction, as well as manufacturer assessment. Complications were graded based on an established MAUDE complication-reporting stratification. Fisher's Exact test was utilized to analyze for associations between device-related adverse events and severity of post-treatment sequelae. RESULTS: Two hundred and thirty-nine unique cases were identified. Adverse events were related to issues with the needles or system (212 cases), technical error (12 cases), or complication related to patient or tumor complexity (14 cases). There were 187 (78.6%) minor complications (MAUDE 1-2) and 52 (21.4%) major complications (MAUDE 3-4). The manufacturer performed formal device review in 164 (68.6%) cases, accepting responsibility for malfunction in 41. Notable MAUDE 3 complications included 29 (12.1%) cases aborted due to instrument/system malfunction and 14 (5.9%) cases of hemorrhage requiring a subsequent procedure. All 3 reported patient deaths (MAUDE 4) appeared to be a consequence of poor baseline health. On statistical analysis, major complications were seen in a significantly higher proportion of non-device related adverse events compared to device related events (85.2% vs. 13.7%, P < .001). CONCLUSION: While renal cryoablation is associated with low overall perioperative morbidity, there is a diverse set of device-related and procedural complications reported in recent years. Device-related adverse events were often associated with minor complications, and major complications were often seen in higher risk patients with comorbidities, more complex tumors, and after technical error. These findings highlight the need for standardized reporting of complications, optimized patient selection and counseling to ensure the best outcomes.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Cryosurgery"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "United States"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "United States Food and Drug Administration"
+      }
+    ],
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S107814392200076X/pdfft?md5=acb17e87f971e4db47e3361efaf0f0a7&pid=1-s2.0-S107814392200076X-main.pdf"
+  },
+  {
+    "PMID": "35281706",
+    "Title": "Stapler Malfunctions in Bariatric Surgery: An Analysis of the MAUDE Database.",
+    "Abstract": "BACKGROUND: Staple line leaks are a serious problem in bariatric surgery and a major cause of serious morbidity and mortality. Adverse events caused by medical devices are reported to the Food and Drug Administration which maintains the Manufacturer and User Facility Device Experience (MAUDE) database. We examined adverse stapler events reported to the MAUDE database, specifically with regards to bariatric surgery. METHODS: The MAUDE database was queried for adverse events caused by staplers between January 1, 2018 - December 31, 2020; events reported by Intuitive, Ethicon, and Medtronic/Covidien; and limited our search to \"gastric bypass\", \"sleeve gastrectomy\", \"stapler malfunction\" combined with each company. RESULTS: There were 883 adverse events reported for Medtronic, 353 for Ethicon, and 35 for Intuitive. Approximately 3.5 million staple reloads sold in the study period. The reported misfire rate for Medtronic was 0.04% and for Ethicon was 0.02%. Data for Intuitive was unavailable. The most common reported event for Medtronic was failure to fire (n = 349), followed by misfire (n = 186). For Ethicon, the most common event was failure to fire (n = 146), followed by mechanical problems (n = 27). The most common event with the Intuitive stapler was leak (n\u2009=\u200910) and bleeding from staple line (n\u2009=\u20098). CONCLUSIONS: Stapler malfunction is a very rare event in metabolic and bariatric surgery. All of the major stapler producers have transitioned to powered staplers with excellent safety profiles. Open and honest reporting about stapler malfunction is essential to determine the true safety of these ubiquitous devices.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Gastric Bypass"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Humans"
+      }
+    ],
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8896815/pdf/e2021.00074.pdf"
+  },
+  {
+    "PMID": "40851065",
+    "Title": "Real-world safety of irreversible electroporation therapy for tumors with nanoknife: MAUDE database analysis.",
+    "Abstract": "BACKGROUND: Irreversible electroporation (IRE) is a non-thermal ablation technique using high-voltage, low-energy pulses to induce cell membrane perforation and cell death. As an emerging therapy, IRE has gained increasing application in local tumor treatment, with Nanoknife being the most widely used device. Despite its relative safety compared to traditional therapies, potential adverse reactions still merit the attention of clinicians. METHODS: We analyzed all IRE-related adverse event reports in the Manufacturer and User Facility Device Experience (MAUDE) database, focusing on event types, Clavien-Dindo Grades, the timing of adverse events and temporal trends across cancers. RESULTS: Device malfunctions with Nanoknife were a significant issue but have declined recently. In pancreatic cancer, gastrointestinal injuries (mainly hemorrhagic lesions) were most commonly reported. In liver cancer, arrhythmias were frequent, with no new cases in recent years. In prostate cancer, rectal fistula was the most common adverse event, with an increasing number of cases being reported. CONCLUSIONS: Theoretically, the Nanoknife is expected to exhibit favorable safety profiles. However, ongoing attention to device maintenance, treatment standardization, and postoperative management is needed to further enhance its safety.",
+    "MeshTerms": [
+      {
+        "MeshTermNum": "1",
+        "MeshTerm": "Humans"
+      },
+      {
+        "MeshTermNum": "2",
+        "MeshTerm": "Electroporation"
+      },
+      {
+        "MeshTermNum": "3",
+        "MeshTerm": "Neoplasms"
+      },
+      {
+        "MeshTermNum": "4",
+        "MeshTerm": "Databases, Factual"
+      },
+      {
+        "MeshTermNum": "5",
+        "MeshTerm": "Male"
+      },
+      {
+        "MeshTermNum": "6",
+        "MeshTerm": "Ablation Techniques"
+      },
+      {
+        "MeshTermNum": "7",
+        "MeshTerm": "Irreversible Electroporation Therapy"
+      }
+    ],
+    "pdf_url": "https://bmcsurg.biomedcentral.com/counter/pdf/10.1186/s12893-025-03136-9.pdf"
+  }
+]

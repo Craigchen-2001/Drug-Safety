@@ -1,0 +1,175 @@
+##maude_original.csv
+Total columns: 94
+Column names: ['PMID', 'Title', 'Abstract', 'Authors', 'Affiliations', 'Language', 'Journal', 'MedlineCountry', 'MedlineTA', 'NlmUniqueID', 'ISSNLinking', 'PublicationYear', 'PublicationMonth', 'PubMedPublicationYear', 'PubMedPublicationMonth', 'Volume', 'Issue', 'ISSN', 'ISOAbbreviation', 'MeshTerms', 'PublicationTypes', 'Author1', 'Affiliation1', 'Author2', 'Affiliation2', 'Author3', 'Affiliation3', 'Author4', 'Affiliation4', 'Author5', 'Affiliation5', 'Author6', 'Affiliation6', 
+    'Author7', 'Affiliation7', 'Author8', 'Affiliation8', 'Author9', 'Affiliation9', 'Author10', 'Affiliation10', 'Author11', 'Affiliation11', 'Author12', 'Affiliation12', 'Author13', 'Affiliation13', 'Author14', 'Affiliation14', 'Author15', 'Affiliation15', 'Author16', 'Affiliation16', 'Author17', 'Affiliation17', 'Author18', 'Affiliation18', 'Author19', 'Affiliation19', 'Author20', 'Affiliation20', 'Author21', 'Affiliation21', 'Author22', 'Affiliation22', 'Author23', 'Affiliation23',
+    'MeshTerm1', 'MeshTerm2', 'MeshTerm3', 'MeshTerm4', 'MeshTerm5', 'MeshTerm6', 'MeshTerm7', 'MeshTerm8', 'MeshTerm9', 'MeshTerm10', 'MeshTerm11', 'MeshTerm12', 'MeshTerm13', 'MeshTerm14', 'MeshTerm15', 'MeshTerm16', 'MeshTerm17', 'MeshTerm18', 'MeshTerm19', 'MeshTerm20', 'MeshTerm21', 'MeshTerm22', 'MeshTerm23', 'PublicationType1', 'PublicationType2', 'PublicationType3', 'PublicationType4']
+Unique PMIDs in CSV: 640
+
+##maude_author_affiliation.csv
+Total columns: 18
+Column names: ['PMID', 'Title', 'Abstract', 'PubMedPublicationYear', 'PubMedPublicationMonth', 'Journal', 'AuthorNum', 'Author', 'AffiliationNum', 'Affiliation', 'Institution', 'State', 'Country', 'Label', 'State_Proper', 'Country_Proper', 'Label_2', 'Last_Name_First']
+Unique PMIDs in CSV: 636
+Missing ['32217977', '30801468', '30801476', '32217971']
+
+##maude_journal.csv
+Total columns: 6
+Column names: ['PMID', 'Journal_cleaned_1', 'Journal_cleaned_2', 'Journal_Proper', 'PubMedPublicationYear', 'PubMedPublicationMonth']Unique PMIDs in CSV: 638
+No Missing 
+
+##maude_mesh.csv
+Total columns: 8
+Column names: ['PMID', 'Title', 'Abstract', 'PubMedPublicationYear', 'PubMedPublicationMonth', 'Journal', 'MeshTermNum', 'MeshTerm']
+Unique PMIDs in CSV: 526
+Missing 114 totals ['39346784', '39939127', '33866770', '39720046', '32423363', '29930960', '37954315', '40761863', '39461686', '31308772'] ...
+
+##prisma_to_json.py
+Total columns: 6
+Columns: ['DateTime', 'Initial total', 'Articles screened', 'Initially included', 'Initially excluded', 'Final total']
+
+##maude_publicationtype.csv
+Total columns: 8
+Column names: ['PMID', 'Title', 'Abstract', 'PubMedPublicationYear', 'PubMedPublicationMonth', 'Journal', 'PublicationTypeNum', 'PublicationType']
+Unique PMIDs in CSV: 640
+No Missing
+
+##Total unique PMIDs in original: 640
+Exported 114 missing entries to missing_mesh.json  (這個檔案是記錄哪些id沒有MeshTerm)
+Exported 640 total entries to all_mesh_status.json  （這個是包含有MeshTerm跟無MeshTerm）
+
+##export_mesh_ground_truth.py
+Extracted 1056 unique MeshTerms 
+
+##ncbi_mesh_ground_truth.json
+Unique terms in ncbi_mesh_ground_truth: 1827
+
+##mesh_ground_truth_merged.json
+Total unique terms after merge: 2721
+
+##all_mesh_status.json
+Missing abstracts: 74
+PMIDs without abstract: ['40304301', '40021401', '39939041', '39647966', '39539243', '39461686', '39443407', '39122507', '38878940', '38658678', '38587020', '38548124', '38513755', '38468214', '38467899', '38250172', '37668414', '37594003', '37544803', '37387528']
+
+
+##No Abstract: 74/640
+##No MeshTerms: 114/640
+
+Total papers without pdf_url: 623
+
+Summary (IDs per file):
+# pdf_task_no_url_part1.json: 208 IDs
+Total has_pdf = false: 10
+PMIDs with has_pdf = false:
+40105162
+39939127
+39939041
+39808456
+39756382
+38520298
+38224297
+37635415
+37553285
+37023704
+
+# pdf_task_no_url_part2.json: 208 IDs
+Total has_pdf = false: 6
+PMIDs with has_pdf = false:
+34862784
+34842892
+34342518
+32942309
+32910629
+30617505
+
+
+# pdf_task_no_url_part4.json:
+Total unique PMIDs: 104
+Total has_pdf = false: 4
+PMIDs with has_pdf = false:
+29792661
+25673309
+24635137
+23761875
+
+# pdf_task_no_url_part5.json: 
+Total unique PMIDs: 103
+Total has_pdf = false: 4
+PMIDs with has_pdf = false:
+30172248
+18258157
+17073570
+34033344
+
+Total IDs across parts: 623 
+Total has_pdf = false: 24
+PMIDs with has_pdf = false:
+40105162
+39939127
+39939041
+39808456
+39756382
+38520298
+38224297
+37635415
+37553285
+37023704
+34862784
+34842892
+34342518
+32942309
+32910629
+30617505
+29792661
+25673309
+24635137
+23761875
+30172248
+18258157
+17073570
+34033344
+
+#Total has_pdf = false: 24
+No Abstract: 2
+總共有24篇沒有pdf 其中又有兩篇沒有abstract
+PMID: 39939041 | Title: Device Approval in the United States: The FDA Is on Target.
+PMID: 32910629 | Title: Questioning the Use of the Manufacturer and User Facility Device Experience Database (MAUDE) to Compare Implant Performance.
+
+Total entries: 640 /Users/chenweichi/Desktop/Drug_Safety_Project/experiments/with_pdf_640_merged.json 
+1️⃣ has_pdf = True but no FullText result: 27
+2️⃣ has Abstract result but missing FullText result: 28
+3️⃣ both Abstract and FullText missing: 12
+4️⃣ both Abstract/FullText missing AND no original MeshTerms: 2
+====================
+
+PMIDs with has_pdf=True but no FullText result:
+37983110
+37956776
+37746939
+37668414
+37622490
+34160872
+33625154
+33528303
+32282600
+31324419
+31183792
+30962083
+30801468
+28533700
+27769853
+27499060
+24786813
+24439579
+23796092
+22996104
+21944871
+19464444
+18377477
+17267869
+14662215
+11243287
+10642409
+
+Total records: 640
+PDFs missing: 9
+PMIDs with missing PDFs:
+37553285, 34862784, 32942309, 29792661, 25673309, 23761875, 30172248, 18258157, 17073570
